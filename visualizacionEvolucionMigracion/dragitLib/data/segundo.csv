@@ -1,0 +1,215 @@
+country_name,continent,sub_continent,year,cantidad,promedio_edad
+Argentina,Americas,South America,2005,6263,30.4835
+Argentina,Americas,South America,2006,6114,31.9127
+Argentina,Americas,South America,2007,5656,31.8784
+Argentina,Americas,South America,2008,5345,32.5302
+Argentina,Americas,South America,2009,5453,32.6701
+Argentina,Americas,South America,2010,5387,33.3707
+Argentina,Americas,South America,2011,5438,32.8468
+Argentina,Americas,South America,2012,6548,33.3465
+Argentina,Americas,South America,2013,7436,33.9504
+Argentina,Americas,South America,2014,8326,33.7157
+Argentina,Americas,South America,2015,9605,33.3512
+Argentina,Americas,South America,2016,8176,33.2986
+Bolivia,Americas,South America,2005,2420,26.7537
+Bolivia,Americas,South America,2006,2815,27.5321
+Bolivia,Americas,South America,2007,7448,26.7277
+Bolivia,Americas,South America,2008,5374,27.0435
+Bolivia,Americas,South America,2009,7801,27.7477
+Bolivia,Americas,South America,2010,7423,28.0746
+Bolivia,Americas,South America,2011,9189,28.2220
+Bolivia,Americas,South America,2012,17310,28.7300
+Bolivia,Americas,South America,2013,30611,28.5533
+Bolivia,Americas,South America,2014,34978,28.1760
+Bolivia,Americas,South America,2015,39126,27.6467
+Bolivia,Americas,South America,2016,27852,27.0689
+Brazil,Americas,South America,2005,1160,29.0974
+Brazil,Americas,South America,2006,1451,30.1275
+Brazil,Americas,South America,2007,1810,29.8221
+Brazil,Americas,South America,2008,1641,30.3754
+Brazil,Americas,South America,2009,1651,30.0987
+Brazil,Americas,South America,2010,1818,31.5215
+Brazil,Americas,South America,2011,1949,31.4171
+Brazil,Americas,South America,2012,2426,31.6191
+Brazil,Americas,South America,2013,2252,31.4556
+Brazil,Americas,South America,2014,2405,31.2137
+Brazil,Americas,South America,2015,3105,31.4663
+Brazil,Americas,South America,2016,3276,30.8501
+China,Asia,Eastern Asia,2005,1131,33.8064
+China,Asia,Eastern Asia,2006,1210,34.7537
+China,Asia,Eastern Asia,2007,1517,34.1635
+China,Asia,Eastern Asia,2008,1659,33.8493
+China,Asia,Eastern Asia,2009,2054,33.6626
+China,Asia,Eastern Asia,2010,2041,33.8079
+China,Asia,Eastern Asia,2011,2295,33.7617
+China,Asia,Eastern Asia,2012,2609,34.1211
+China,Asia,Eastern Asia,2013,2669,34.5575
+China,Asia,Eastern Asia,2014,3010,34.9409
+China,Asia,Eastern Asia,2015,3583,34.5925
+China,Asia,Eastern Asia,2016,3569,34.1222
+Colombia,Americas,South America,2005,2179,29.5984
+Colombia,Americas,South America,2006,3195,30.2166
+Colombia,Americas,South America,2007,4834,30.2714
+Colombia,Americas,South America,2008,5563,30.0363
+Colombia,Americas,South America,2009,7697,30.3595
+Colombia,Americas,South America,2010,8921,30.1816
+Colombia,Americas,South America,2011,14362,30.3195
+Colombia,Americas,South America,2012,20875,30.5910
+Colombia,Americas,South America,2013,30138,30.7147
+Colombia,Americas,South America,2014,33939,30.6372
+Colombia,Americas,South America,2015,44535,30.9317
+Colombia,Americas,South America,2016,47352,30.8602
+Cuba,Americas,Caribbean,2005,664,37.2470
+Cuba,Americas,Caribbean,2006,642,39.9642
+Cuba,Americas,Caribbean,2007,736,38.1617
+Cuba,Americas,Caribbean,2008,706,38.1487
+Cuba,Americas,Caribbean,2009,732,38.3525
+Cuba,Americas,Caribbean,2010,744,37.2917
+Cuba,Americas,Caribbean,2011,691,38.5904
+Cuba,Americas,Caribbean,2012,736,38.3682
+Cuba,Americas,Caribbean,2013,740,38.9662
+Cuba,Americas,Caribbean,2014,948,38.9357
+Cuba,Americas,Caribbean,2015,1559,37.0558
+Cuba,Americas,Caribbean,2016,1499,36.2802
+Dominican Republic,Americas,Caribbean,2009,687,31.3144
+Dominican Republic,Americas,Caribbean,2010,1152,31.7257
+Dominican Republic,Americas,Caribbean,2011,1956,32.2848
+Dominican Republic,Americas,Caribbean,2012,4655,32.9764
+Dominican Republic,Americas,Caribbean,2013,4116,33.7638
+Dominican Republic,Americas,Caribbean,2014,3603,34.2603
+Dominican Republic,Americas,Caribbean,2015,3517,33.8186
+Dominican Republic,Americas,Caribbean,2016,2360,31.0949
+Ecuador,Americas,South America,2005,2956,28.3336
+Ecuador,Americas,South America,2006,3135,28.5254
+Ecuador,Americas,South America,2007,4352,28.5809
+Ecuador,Americas,South America,2008,3933,28.5721
+Ecuador,Americas,South America,2009,4674,28.8757
+Ecuador,Americas,South America,2010,3624,29.0003
+Ecuador,Americas,South America,2011,3938,28.4238
+Ecuador,Americas,South America,2012,4679,28.4890
+Ecuador,Americas,South America,2013,4992,28.7730
+Ecuador,Americas,South America,2014,5309,29.1513
+Ecuador,Americas,South America,2015,6374,29.3342
+Ecuador,Americas,South America,2016,7261,29.5268
+France,Europe,Western Europe,2005,569,34.4306
+France,Europe,Western Europe,2006,571,32.6252
+France,Europe,Western Europe,2007,688,32.8372
+France,Europe,Western Europe,2008,710,33.1169
+France,Europe,Western Europe,2009,674,33.0964
+France,Europe,Western Europe,2010,856,34.2640
+France,Europe,Western Europe,2011,862,32.6949
+France,Europe,Western Europe,2012,1052,33.0456
+France,Europe,Western Europe,2013,1095,31.8429
+France,Europe,Western Europe,2014,1190,32.3252
+France,Europe,Western Europe,2015,1339,31.9634
+France,Europe,Western Europe,2016,1108,32.4278
+Germany,Europe,Western Europe,2007,562,36.8149
+Germany,Europe,Western Europe,2008,614,35.3306
+Germany,Europe,Western Europe,2009,587,36.1789
+Germany,Europe,Western Europe,2010,644,35.2966
+Germany,Europe,Western Europe,2011,685,35.5153
+Germany,Europe,Western Europe,2012,747,34.1673
+Germany,Europe,Western Europe,2013,687,35.0451
+Germany,Europe,Western Europe,2014,845,36.7456
+Germany,Europe,Western Europe,2015,778,36.4743
+Germany,Europe,Western Europe,2016,582,35.1168
+Haiti,Americas,Caribbean,2010,744,29.7446
+Haiti,Americas,Caribbean,2011,1188,29.8519
+Haiti,Americas,Caribbean,2012,1948,29.2361
+Haiti,Americas,Caribbean,2013,2868,29.0903
+Haiti,Americas,Caribbean,2014,4407,28.7810
+Haiti,Americas,Caribbean,2015,10071,29.7722
+Haiti,Americas,Caribbean,2016,27395,30.3771
+Italy,Europe,Southern Europe,2010,626,41.9984
+Italy,Europe,Southern Europe,2011,526,40.5875
+Italy,Europe,Southern Europe,2012,562,39.3879
+Italy,Europe,Southern Europe,2013,724,37.9351
+Italy,Europe,Southern Europe,2014,723,38.2600
+Italy,Europe,Southern Europe,2015,865,36.7919
+Italy,Europe,Southern Europe,2016,716,37.4888
+Mexico,Americas,Central America,2005,599,28.9499
+Mexico,Americas,Central America,2006,688,29.5305
+Mexico,Americas,Central America,2007,853,30.3599
+Mexico,Americas,Central America,2008,849,30.1814
+Mexico,Americas,Central America,2009,880,31.4443
+Mexico,Americas,Central America,2010,917,30.7219
+Mexico,Americas,Central America,2011,1051,30.5576
+Mexico,Americas,Central America,2012,1339,30.9664
+Mexico,Americas,Central America,2013,1356,30.6600
+Mexico,Americas,Central America,2014,1458,31.3957
+Mexico,Americas,Central America,2015,1607,31.7268
+Mexico,Americas,Central America,2016,1346,30.9911
+Paraguay,Americas,South America,2007,782,27.6688
+Paraguay,Americas,South America,2008,824,26.8022
+Paraguay,Americas,South America,2009,874,26.8810
+Paraguay,Americas,South America,2010,889,26.3532
+Paraguay,Americas,South America,2011,1052,27.2243
+Paraguay,Americas,South America,2012,1286,26.7481
+Paraguay,Americas,South America,2013,1331,27.0466
+Paraguay,Americas,South America,2014,1391,26.9547
+Paraguay,Americas,South America,2015,1556,27.4120
+Paraguay,Americas,South America,2016,1422,27.1646
+Peru,Americas,South America,2005,25966,30.0154
+Peru,Americas,South America,2006,32746,30.1385
+Peru,Americas,South America,2007,63869,30.3477
+Peru,Americas,South America,2008,47336,29.9386
+Peru,Americas,South America,2009,56586,30.5344
+Peru,Americas,South America,2010,38048,29.7950
+Peru,Americas,South America,2011,40628,29.5707
+Peru,Americas,South America,2012,49643,29.7597
+Peru,Americas,South America,2013,48517,29.8979
+Peru,Americas,South America,2014,49900,30.0023
+Peru,Americas,South America,2015,59767,30.3069
+Peru,Americas,South America,2016,53624,30.2980
+South Korea,Asia,Eastern Asia,2010,544,39.6029
+South Korea,Asia,Eastern Asia,2011,558,35.8047
+South Korea,Asia,Eastern Asia,2015,661,38.4584
+South Korea,Asia,Eastern Asia,2016,505,37.5228
+Spain,Europe,Southern Europe,2005,825,36.3030
+Spain,Europe,Southern Europe,2006,869,36.4511
+Spain,Europe,Southern Europe,2007,944,36.0371
+Spain,Europe,Southern Europe,2008,936,37.6100
+Spain,Europe,Southern Europe,2009,1092,36.5183
+Spain,Europe,Southern Europe,2010,1170,36.1632
+Spain,Europe,Southern Europe,2011,1508,35.5763
+Spain,Europe,Southern Europe,2012,2989,34.7126
+Spain,Europe,Southern Europe,2013,5737,34.1482
+Spain,Europe,Southern Europe,2014,6262,34.3084
+Spain,Europe,Southern Europe,2015,6313,34.5440
+Spain,Europe,Southern Europe,2016,4458,35.6561
+United States of America,Americas,Northern America,2005,1984,29.4199
+United States of America,Americas,Northern America,2006,1926,30.9418
+United States of America,Americas,Northern America,2007,2041,30.6595
+United States of America,Americas,Northern America,2008,2377,30.2427
+United States of America,Americas,Northern America,2009,2615,28.8623
+United States of America,Americas,Northern America,2010,3287,29.0742
+United States of America,Americas,Northern America,2011,3425,29.3784
+United States of America,Americas,Northern America,2012,3976,30.4464
+United States of America,Americas,Northern America,2013,3749,29.9571
+United States of America,Americas,Northern America,2014,3796,28.7566
+United States of America,Americas,Northern America,2015,3413,29.4621
+United States of America,Americas,Northern America,2016,2673,28.7636
+Uruguay,Americas,South America,2005,1077,30.1476
+Uruguay,Americas,South America,2006,1099,30.3003
+Uruguay,Americas,South America,2007,1275,30.8486
+Uruguay,Americas,South America,2008,1271,30.6098
+Uruguay,Americas,South America,2009,1171,31.8437
+Uruguay,Americas,South America,2010,1190,31.7420
+Uruguay,Americas,South America,2011,1075,31.8586
+Uruguay,Americas,South America,2012,1186,32.5438
+Uruguay,Americas,South America,2013,956,32.6872
+Uruguay,Americas,South America,2014,957,33.3323
+Uruguay,Americas,South America,2015,1072,33.6222
+Uruguay,Americas,South America,2016,858,33.8380
+Venezuela,Americas,South America,2005,567,30.8201
+Venezuela,Americas,South America,2006,618,31.4773
+Venezuela,Americas,South America,2007,773,30.7503
+Venezuela,Americas,South America,2008,819,31.2442
+Venezuela,Americas,South America,2009,1013,30.9260
+Venezuela,Americas,South America,2010,1091,31.8717
+Venezuela,Americas,South America,2011,1453,31.4370
+Venezuela,Americas,South America,2012,1760,31.8983
+Venezuela,Americas,South America,2013,2015,31.0968
+Venezuela,Americas,South America,2014,3557,30.6458
+Venezuela,Americas,South America,2015,9730,30.1084
+Venezuela,Americas,South America,2016,26623,29.8724

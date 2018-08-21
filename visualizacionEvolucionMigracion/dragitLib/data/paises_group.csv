@@ -1,0 +1,1505 @@
+country_name,continent,sub_continent,year,cantidad,promedio_edad
+Afghanistan,Asia,Southern Asia,2005,8,25.6250
+Afghanistan,Asia,Southern Asia,2006,4,29.5000
+Afghanistan,Asia,Southern Asia,2007,5,26.8000
+Afghanistan,Asia,Southern Asia,2008,1,42.0000
+Afghanistan,Asia,Southern Asia,2009,2,24.0000
+Afghanistan,Asia,Southern Asia,2010,1,31.0000
+Afghanistan,Asia,Southern Asia,2011,3,23.0000
+Afghanistan,Asia,Southern Asia,2012,6,24.6667
+Afghanistan,Asia,Southern Asia,2013,15,24.6667
+Afghanistan,Asia,Southern Asia,2014,4,25.7500
+Afghanistan,Asia,Southern Asia,2015,12,25.6667
+Afghanistan,Asia,Southern Asia,2016,15,26.8000
+Albania,Europe,Southern Europe,2005,2,63.5000
+Albania,Europe,Southern Europe,2006,1,31.0000
+Albania,Europe,Southern Europe,2007,1,32.0000
+Albania,Europe,Southern Europe,2008,2,28.0000
+Albania,Europe,Southern Europe,2009,2,26.5000
+Albania,Europe,Southern Europe,2010,5,24.6000
+Albania,Europe,Southern Europe,2011,3,26.6667
+Albania,Europe,Southern Europe,2012,2,25.5000
+Albania,Europe,Southern Europe,2013,1,40.0000
+Albania,Europe,Southern Europe,2014,2,30.0000
+Albania,Europe,Southern Europe,2015,7,26.0000
+Albania,Europe,Southern Europe,2016,11,29.0909
+Algeria,Africa,Northern Africa,2005,2,37.5000
+Algeria,Africa,Northern Africa,2007,2,36.5000
+Algeria,Africa,Northern Africa,2008,1,32.0000
+Algeria,Africa,Northern Africa,2009,3,34.6667
+Algeria,Africa,Northern Africa,2010,8,31.0000
+Algeria,Africa,Northern Africa,2011,3,30.6667
+Algeria,Africa,Northern Africa,2012,4,37.5000
+Algeria,Africa,Northern Africa,2013,10,29.2000
+Algeria,Africa,Northern Africa,2014,8,28.8750
+Algeria,Africa,Northern Africa,2015,12,33.5833
+Algeria,Africa,Northern Africa,2016,9,33.3333
+Andorra,Europe,Southern Europe,2005,2,18.0000
+Andorra,Europe,Southern Europe,2006,1,35.0000
+Andorra,Europe,Southern Europe,2007,1,36.0000
+Andorra,Europe,Southern Europe,2008,1,37.0000
+Andorra,Europe,Southern Europe,2011,2,41.0000
+Andorra,Europe,Southern Europe,2013,1,33.0000
+Andorra,Europe,Southern Europe,2014,2,31.0000
+Andorra,Europe,Southern Europe,2015,2,40.5000
+Andorra,Europe,Southern Europe,2016,1,48.0000
+Angola,Africa,Middle Africa,2005,1,22.0000
+Angola,Africa,Middle Africa,2006,2,29.5000
+Angola,Africa,Middle Africa,2007,4,26.2500
+Angola,Africa,Middle Africa,2008,3,26.3333
+Angola,Africa,Middle Africa,2009,2,28.0000
+Angola,Africa,Middle Africa,2010,4,27.5000
+Angola,Africa,Middle Africa,2011,6,30.5000
+Angola,Africa,Middle Africa,2012,8,41.2500
+Angola,Africa,Middle Africa,2013,1,38.0000
+Angola,Africa,Middle Africa,2014,1,36.0000
+Angola,Africa,Middle Africa,2015,13,21.5385
+Angola,Africa,Middle Africa,2016,19,24.3158
+Antigua and Barbuda,Americas,Caribbean,2008,1,30.0000
+Antillas Neerlandesas,Other,Other,2013,1,60.0000
+Antillas Neerlandesas,Other,Other,2015,1,62.0000
+Argentina,Americas,South America,2005,6263,30.4835
+Argentina,Americas,South America,2006,6114,31.9127
+Argentina,Americas,South America,2007,5656,31.8784
+Argentina,Americas,South America,2008,5345,32.5302
+Argentina,Americas,South America,2009,5453,32.6701
+Argentina,Americas,South America,2010,5387,33.3707
+Argentina,Americas,South America,2011,5438,32.8468
+Argentina,Americas,South America,2012,6548,33.3465
+Argentina,Americas,South America,2013,7436,33.9504
+Argentina,Americas,South America,2014,8326,33.7157
+Argentina,Americas,South America,2015,9605,33.3512
+Argentina,Americas,South America,2016,8176,33.2986
+Armenia,Asia,Western Asia,2006,2,31.0000
+Armenia,Asia,Western Asia,2008,2,41.5000
+Armenia,Asia,Western Asia,2009,3,27.0000
+Armenia,Asia,Western Asia,2010,1,52.0000
+Armenia,Asia,Western Asia,2011,4,25.0000
+Armenia,Asia,Western Asia,2012,2,34.0000
+Armenia,Asia,Western Asia,2014,2,35.5000
+Armenia,Asia,Western Asia,2015,2,35.0000
+Armenia,Asia,Western Asia,2016,4,36.2500
+Australia,Oceania,Australia and New Zealand,2005,123,32.8211
+Australia,Oceania,Australia and New Zealand,2006,160,34.7188
+Australia,Oceania,Australia and New Zealand,2007,145,37.4828
+Australia,Oceania,Australia and New Zealand,2008,200,34.6650
+Australia,Oceania,Australia and New Zealand,2009,186,33.8656
+Australia,Oceania,Australia and New Zealand,2010,186,35.1452
+Australia,Oceania,Australia and New Zealand,2011,262,33.5992
+Australia,Oceania,Australia and New Zealand,2012,291,34.7010
+Australia,Oceania,Australia and New Zealand,2013,293,34.5392
+Australia,Oceania,Australia and New Zealand,2014,244,34.2623
+Australia,Oceania,Australia and New Zealand,2015,235,35.5021
+Australia,Oceania,Australia and New Zealand,2016,154,34.2987
+Austria,Europe,Western Europe,2005,53,38.2075
+Austria,Europe,Western Europe,2006,54,36.2037
+Austria,Europe,Western Europe,2007,41,35.3659
+Austria,Europe,Western Europe,2008,32,34.6250
+Austria,Europe,Western Europe,2009,55,38.7273
+Austria,Europe,Western Europe,2010,40,35.8500
+Austria,Europe,Western Europe,2011,77,33.9740
+Austria,Europe,Western Europe,2012,63,38.0635
+Austria,Europe,Western Europe,2013,105,36.5905
+Austria,Europe,Western Europe,2014,137,38.3285
+Austria,Europe,Western Europe,2015,139,37.8489
+Austria,Europe,Western Europe,2016,74,40.2703
+Azerbaijan,Asia,Western Asia,2009,3,14.6667
+Azerbaijan,Asia,Western Asia,2013,1,31.0000
+Azerbaijan,Asia,Western Asia,2014,2,29.5000
+Azerbaijan,Asia,Western Asia,2015,1,31.0000
+Bahamas,Americas,Caribbean,2005,1,27.0000
+Bahamas,Americas,Caribbean,2007,2,36.5000
+Bahamas,Americas,Caribbean,2008,1,26.0000
+Bahamas,Americas,Caribbean,2014,5,33.0000
+Bahamas,Americas,Caribbean,2015,5,34.0000
+Bahamas,Americas,Caribbean,2016,1,61.0000
+Bangladesh,Asia,Southern Asia,2008,4,38.2500
+Bangladesh,Asia,Southern Asia,2009,7,28.8571
+Bangladesh,Asia,Southern Asia,2010,4,40.5000
+Bangladesh,Asia,Southern Asia,2011,7,30.5714
+Bangladesh,Asia,Southern Asia,2012,6,37.6667
+Bangladesh,Asia,Southern Asia,2013,2,38.5000
+Bangladesh,Asia,Southern Asia,2014,7,32.5714
+Bangladesh,Asia,Southern Asia,2015,11,34.2727
+Bangladesh,Asia,Southern Asia,2016,21,32.1429
+Belarus,Europe,Eastern Europe,2005,7,26.5714
+Belarus,Europe,Eastern Europe,2006,2,34.0000
+Belarus,Europe,Eastern Europe,2007,8,26.2500
+Belarus,Europe,Eastern Europe,2008,11,26.9091
+Belarus,Europe,Eastern Europe,2009,14,29.9286
+Belarus,Europe,Eastern Europe,2010,20,32.6000
+Belarus,Europe,Eastern Europe,2011,26,31.6538
+Belarus,Europe,Eastern Europe,2012,27,32.6667
+Belarus,Europe,Eastern Europe,2013,18,34.0556
+Belarus,Europe,Eastern Europe,2014,12,31.3333
+Belarus,Europe,Eastern Europe,2015,35,35.6286
+Belarus,Europe,Eastern Europe,2016,17,33.1176
+Belgium,Europe,Western Europe,2005,104,35.5192
+Belgium,Europe,Western Europe,2006,95,36.9895
+Belgium,Europe,Western Europe,2007,72,36.6389
+Belgium,Europe,Western Europe,2008,107,36.7477
+Belgium,Europe,Western Europe,2009,92,34.6739
+Belgium,Europe,Western Europe,2010,91,38.4286
+Belgium,Europe,Western Europe,2011,91,38.0000
+Belgium,Europe,Western Europe,2012,138,36.2174
+Belgium,Europe,Western Europe,2013,123,34.4959
+Belgium,Europe,Western Europe,2014,126,34.9206
+Belgium,Europe,Western Europe,2015,174,35.5000
+Belgium,Europe,Western Europe,2016,131,35.1832
+Belize,Americas,Central America,2005,3,24.3333
+Belize,Americas,Central America,2006,1,28.0000
+Belize,Americas,Central America,2007,3,25.0000
+Belize,Americas,Central America,2008,4,28.2500
+Belize,Americas,Central America,2009,1,27.0000
+Belize,Americas,Central America,2010,5,30.2000
+Belize,Americas,Central America,2011,3,38.0000
+Belize,Americas,Central America,2012,7,43.1429
+Belize,Americas,Central America,2013,2,42.5000
+Belize,Americas,Central America,2014,9,37.4444
+Belize,Americas,Central America,2015,10,42.6000
+Belize,Americas,Central America,2016,6,30.0000
+Benin,Africa,Western Africa,2005,2,29.5000
+Benin,Africa,Western Africa,2006,1,30.0000
+Benin,Africa,Western Africa,2009,2,29.5000
+Benin,Africa,Western Africa,2010,1,31.0000
+Benin,Africa,Western Africa,2011,1,31.0000
+Benin,Africa,Western Africa,2015,2,32.5000
+Benin,Africa,Western Africa,2016,3,34.3333
+Bermuda,Americas,Northern America,2008,1,60.0000
+Bhutan,Asia,Southern Asia,2008,1,39.0000
+Bolivia,Americas,South America,2005,2420,26.7537
+Bolivia,Americas,South America,2006,2815,27.5321
+Bolivia,Americas,South America,2007,7448,26.7277
+Bolivia,Americas,South America,2008,5374,27.0435
+Bolivia,Americas,South America,2009,7801,27.7477
+Bolivia,Americas,South America,2010,7423,28.0746
+Bolivia,Americas,South America,2011,9189,28.2220
+Bolivia,Americas,South America,2012,17310,28.7300
+Bolivia,Americas,South America,2013,30611,28.5533
+Bolivia,Americas,South America,2014,34978,28.1760
+Bolivia,Americas,South America,2015,39126,27.6467
+Bolivia,Americas,South America,2016,27852,27.0689
+Bosnia and Herzegovina,Europe,Southern Europe,2005,6,24.0000
+Bosnia and Herzegovina,Europe,Southern Europe,2006,2,25.5000
+Bosnia and Herzegovina,Europe,Southern Europe,2007,3,26.6667
+Bosnia and Herzegovina,Europe,Southern Europe,2008,4,26.2500
+Bosnia and Herzegovina,Europe,Southern Europe,2009,2,30.0000
+Bosnia and Herzegovina,Europe,Southern Europe,2010,2,30.0000
+Bosnia and Herzegovina,Europe,Southern Europe,2011,6,27.6667
+Bosnia and Herzegovina,Europe,Southern Europe,2012,8,31.1250
+Bosnia and Herzegovina,Europe,Southern Europe,2013,4,35.0000
+Bosnia and Herzegovina,Europe,Southern Europe,2014,3,30.3333
+Bosnia and Herzegovina,Europe,Southern Europe,2015,39,34.5385
+Bosnia and Herzegovina,Europe,Southern Europe,2016,9,35.3333
+Botswana,Africa,Southern Africa,2015,1,39.0000
+Brazil,Americas,South America,2005,1160,29.0974
+Brazil,Americas,South America,2006,1451,30.1275
+Brazil,Americas,South America,2007,1810,29.8221
+Brazil,Americas,South America,2008,1641,30.3754
+Brazil,Americas,South America,2009,1651,30.0987
+Brazil,Americas,South America,2010,1818,31.5215
+Brazil,Americas,South America,2011,1949,31.4171
+Brazil,Americas,South America,2012,2426,31.6191
+Brazil,Americas,South America,2013,2252,31.4556
+Brazil,Americas,South America,2014,2405,31.2137
+Brazil,Americas,South America,2015,3105,31.4663
+Brazil,Americas,South America,2016,3276,30.8501
+Bulgaria,Europe,Eastern Europe,2005,10,29.9000
+Bulgaria,Europe,Eastern Europe,2006,5,39.0000
+Bulgaria,Europe,Eastern Europe,2007,18,32.9444
+Bulgaria,Europe,Eastern Europe,2008,21,31.6190
+Bulgaria,Europe,Eastern Europe,2009,8,32.3750
+Bulgaria,Europe,Eastern Europe,2010,17,33.2353
+Bulgaria,Europe,Eastern Europe,2011,21,36.1905
+Bulgaria,Europe,Eastern Europe,2012,15,38.8667
+Bulgaria,Europe,Eastern Europe,2013,26,36.6923
+Bulgaria,Europe,Eastern Europe,2014,31,36.0645
+Bulgaria,Europe,Eastern Europe,2015,96,34.3750
+Bulgaria,Europe,Eastern Europe,2016,109,35.2936
+Burkina Faso,Africa,Western Africa,2005,2,28.5000
+Burkina Faso,Africa,Western Africa,2006,1,31.0000
+Burkina Faso,Africa,Western Africa,2010,1,42.0000
+Burkina Faso,Africa,Western Africa,2013,1,22.0000
+Burkina Faso,Africa,Western Africa,2016,1,36.0000
+Burundi,Africa,Eastern Africa,2009,1,35.0000
+Cabo Verde,Africa,Western Africa,2005,1,41.0000
+Cabo Verde,Africa,Western Africa,2012,1,48.0000
+Cambodia,Asia,South-Eastern Asia,2012,1,25.0000
+Cambodia,Asia,South-Eastern Asia,2013,1,26.0000
+Cameroon,Africa,Middle Africa,2005,1,29.0000
+Cameroon,Africa,Middle Africa,2006,6,24.0000
+Cameroon,Africa,Middle Africa,2007,10,25.1000
+Cameroon,Africa,Middle Africa,2008,9,26.0000
+Cameroon,Africa,Middle Africa,2009,10,26.5000
+Cameroon,Africa,Middle Africa,2010,17,29.1765
+Cameroon,Africa,Middle Africa,2011,13,27.2308
+Cameroon,Africa,Middle Africa,2012,9,29.3333
+Cameroon,Africa,Middle Africa,2013,10,30.1000
+Cameroon,Africa,Middle Africa,2014,10,29.9000
+Cameroon,Africa,Middle Africa,2015,7,34.0000
+Cameroon,Africa,Middle Africa,2016,11,30.4545
+Canada,Americas,Northern America,2005,272,37.9522
+Canada,Americas,Northern America,2006,246,37.9228
+Canada,Americas,Northern America,2007,243,38.1811
+Canada,Americas,Northern America,2008,294,37.6463
+Canada,Americas,Northern America,2009,266,39.7970
+Canada,Americas,Northern America,2010,341,38.7771
+Canada,Americas,Northern America,2011,387,37.9121
+Canada,Americas,Northern America,2012,461,36.6725
+Canada,Americas,Northern America,2013,398,36.3216
+Canada,Americas,Northern America,2014,369,37.6098
+Canada,Americas,Northern America,2015,290,38.2793
+Canada,Americas,Northern America,2016,249,37.2811
+Central African Republic,Africa,Middle Africa,2013,1,21.0000
+Central African Republic,Africa,Middle Africa,2014,1,22.0000
+Central African Republic,Africa,Middle Africa,2015,1,39.0000
+Chile,Other,Other,2005,392,33.8444
+Chile,Other,Other,2006,173,33.5665
+Chile,Other,Other,2007,50,36.8000
+Chile,Other,Other,2008,26,38.6923
+Chile,Other,Other,2009,20,43.4500
+Chile,Other,Other,2010,30,36.7667
+China,Asia,Eastern Asia,2005,1131,33.8064
+China,Asia,Eastern Asia,2006,1210,34.7537
+China,Asia,Eastern Asia,2007,1517,34.1635
+China,Asia,Eastern Asia,2008,1659,33.8493
+China,Asia,Eastern Asia,2009,2054,33.6626
+China,Asia,Eastern Asia,2010,2041,33.8079
+China,Asia,Eastern Asia,2011,2295,33.7617
+China,Asia,Eastern Asia,2012,2609,34.1211
+China,Asia,Eastern Asia,2013,2669,34.5575
+China,Asia,Eastern Asia,2014,3010,34.9409
+China,Asia,Eastern Asia,2015,3583,34.5925
+China,Asia,Eastern Asia,2016,3569,34.1222
+Colombia,Americas,South America,2005,2179,29.5984
+Colombia,Americas,South America,2006,3195,30.2166
+Colombia,Americas,South America,2007,4834,30.2714
+Colombia,Americas,South America,2008,5563,30.0363
+Colombia,Americas,South America,2009,7697,30.3595
+Colombia,Americas,South America,2010,8921,30.1816
+Colombia,Americas,South America,2011,14362,30.3195
+Colombia,Americas,South America,2012,20875,30.5910
+Colombia,Americas,South America,2013,30138,30.7147
+Colombia,Americas,South America,2014,33939,30.6372
+Colombia,Americas,South America,2015,44535,30.9317
+Colombia,Americas,South America,2016,47352,30.8602
+Comoros,Africa,Eastern Africa,2012,1,6.0000
+Congo,Africa,Middle Africa,2005,1,25.0000
+Congo,Africa,Middle Africa,2006,8,31.3750
+Congo,Africa,Middle Africa,2007,7,34.7143
+Congo,Africa,Middle Africa,2008,13,31.7692
+Congo,Africa,Middle Africa,2009,20,28.4500
+Congo,Africa,Middle Africa,2010,11,28.3636
+Congo,Africa,Middle Africa,2011,16,29.1250
+Congo,Africa,Middle Africa,2012,25,29.0000
+Congo,Africa,Middle Africa,2013,17,32.4118
+Congo,Africa,Middle Africa,2014,16,28.1250
+Congo,Africa,Middle Africa,2015,13,37.6923
+Congo,Africa,Middle Africa,2016,12,36.4167
+Costa Rica,Americas,Central America,2005,58,28.8448
+Costa Rica,Americas,Central America,2006,63,30.5556
+Costa Rica,Americas,Central America,2007,91,32.3626
+Costa Rica,Americas,Central America,2008,83,28.2410
+Costa Rica,Americas,Central America,2009,99,28.2020
+Costa Rica,Americas,Central America,2010,117,29.7094
+Costa Rica,Americas,Central America,2011,159,29.5786
+Costa Rica,Americas,Central America,2012,168,31.5119
+Costa Rica,Americas,Central America,2013,171,31.5380
+Costa Rica,Americas,Central America,2014,188,30.6915
+Costa Rica,Americas,Central America,2015,216,30.9167
+Costa Rica,Americas,Central America,2016,155,31.7548
+Côte d'Ivoire,Africa,Western Africa,2005,3,19.6667
+Côte d'Ivoire,Africa,Western Africa,2006,1,20.0000
+Côte d'Ivoire,Africa,Western Africa,2007,6,20.5000
+Côte d'Ivoire,Africa,Western Africa,2008,4,24.7500
+Côte d'Ivoire,Africa,Western Africa,2009,6,19.1667
+Côte d'Ivoire,Africa,Western Africa,2010,8,24.7500
+Côte d'Ivoire,Africa,Western Africa,2011,5,22.2000
+Côte d'Ivoire,Africa,Western Africa,2012,2,22.0000
+Côte d'Ivoire,Africa,Western Africa,2013,4,22.7500
+Côte d'Ivoire,Africa,Western Africa,2014,2,26.0000
+Côte d'Ivoire,Africa,Western Africa,2015,2,22.5000
+Côte d'Ivoire,Africa,Western Africa,2016,2,26.0000
+Croatia,Europe,Southern Europe,2005,13,37.1538
+Croatia,Europe,Southern Europe,2006,3,48.3333
+Croatia,Europe,Southern Europe,2007,11,49.7273
+Croatia,Europe,Southern Europe,2008,53,29.5283
+Croatia,Europe,Southern Europe,2009,16,39.4375
+Croatia,Europe,Southern Europe,2010,13,35.3077
+Croatia,Europe,Southern Europe,2011,18,42.4444
+Croatia,Europe,Southern Europe,2012,29,33.6897
+Croatia,Europe,Southern Europe,2013,11,36.7273
+Croatia,Europe,Southern Europe,2014,23,41.3913
+Croatia,Europe,Southern Europe,2015,28,37.7857
+Croatia,Europe,Southern Europe,2016,38,39.5000
+Cuba,Americas,Caribbean,2005,664,37.2470
+Cuba,Americas,Caribbean,2006,642,39.9642
+Cuba,Americas,Caribbean,2007,736,38.1617
+Cuba,Americas,Caribbean,2008,706,38.1487
+Cuba,Americas,Caribbean,2009,732,38.3525
+Cuba,Americas,Caribbean,2010,744,37.2917
+Cuba,Americas,Caribbean,2011,691,38.5904
+Cuba,Americas,Caribbean,2012,736,38.3682
+Cuba,Americas,Caribbean,2013,740,38.9662
+Cuba,Americas,Caribbean,2014,948,38.9357
+Cuba,Americas,Caribbean,2015,1559,37.0558
+Cuba,Americas,Caribbean,2016,1499,36.2802
+Cyprus,Asia,Western Asia,2011,2,34.0000
+Cyprus,Asia,Western Asia,2013,2,34.5000
+Cyprus,Asia,Western Asia,2014,3,35.6667
+Cyprus,Asia,Western Asia,2015,5,36.0000
+Cyprus,Asia,Western Asia,2016,1,42.0000
+Czech Republic,Europe,Eastern Europe,2005,12,39.2500
+Czech Republic,Europe,Eastern Europe,2006,4,37.7500
+Czech Republic,Europe,Eastern Europe,2007,9,31.6667
+Czech Republic,Europe,Eastern Europe,2008,11,33.4545
+Czech Republic,Europe,Eastern Europe,2009,33,32.6364
+Czech Republic,Europe,Eastern Europe,2010,108,37.6667
+Czech Republic,Europe,Eastern Europe,2011,18,34.6667
+Czech Republic,Europe,Eastern Europe,2012,36,31.0833
+Czech Republic,Europe,Eastern Europe,2013,70,33.4571
+Czech Republic,Europe,Eastern Europe,2014,64,36.2813
+Czech Republic,Europe,Eastern Europe,2015,52,32.5385
+Czech Republic,Europe,Eastern Europe,2016,48,33.4583
+Denmark,Europe,Northern Europe,2005,50,36.6800
+Denmark,Europe,Northern Europe,2006,26,38.3846
+Denmark,Europe,Northern Europe,2007,43,36.2326
+Denmark,Europe,Northern Europe,2008,37,35.9189
+Denmark,Europe,Northern Europe,2009,43,40.6744
+Denmark,Europe,Northern Europe,2010,45,40.8667
+Denmark,Europe,Northern Europe,2011,29,39.8276
+Denmark,Europe,Northern Europe,2012,57,36.0175
+Denmark,Europe,Northern Europe,2013,55,32.7455
+Denmark,Europe,Northern Europe,2014,60,34.3833
+Denmark,Europe,Northern Europe,2015,68,35.8971
+Denmark,Europe,Northern Europe,2016,38,36.3421
+Dominica,Americas,Caribbean,2005,1,39.0000
+Dominica,Americas,Caribbean,2012,1,31.0000
+Dominica,Americas,Caribbean,2014,1,72.0000
+Dominican Republic,Americas,Caribbean,2005,172,30.8953
+Dominican Republic,Americas,Caribbean,2006,206,30.2379
+Dominican Republic,Americas,Caribbean,2007,354,31.3503
+Dominican Republic,Americas,Caribbean,2008,420,29.8024
+Dominican Republic,Americas,Caribbean,2009,687,31.3144
+Dominican Republic,Americas,Caribbean,2010,1152,31.7257
+Dominican Republic,Americas,Caribbean,2011,1956,32.2848
+Dominican Republic,Americas,Caribbean,2012,4655,32.9764
+Dominican Republic,Americas,Caribbean,2013,4116,33.7638
+Dominican Republic,Americas,Caribbean,2014,3603,34.2603
+Dominican Republic,Americas,Caribbean,2015,3517,33.8186
+Dominican Republic,Americas,Caribbean,2016,2360,31.0949
+Ecuador,Americas,South America,2005,2956,28.3336
+Ecuador,Americas,South America,2006,3135,28.5254
+Ecuador,Americas,South America,2007,4352,28.5809
+Ecuador,Americas,South America,2008,3933,28.5721
+Ecuador,Americas,South America,2009,4674,28.8757
+Ecuador,Americas,South America,2010,3624,29.0003
+Ecuador,Americas,South America,2011,3938,28.4238
+Ecuador,Americas,South America,2012,4679,28.4890
+Ecuador,Americas,South America,2013,4992,28.7730
+Ecuador,Americas,South America,2014,5309,29.1513
+Ecuador,Americas,South America,2015,6374,29.3342
+Ecuador,Americas,South America,2016,7261,29.5268
+Egypt,Africa,Northern Africa,2005,6,37.8333
+Egypt,Africa,Northern Africa,2006,8,36.1250
+Egypt,Africa,Northern Africa,2007,9,31.6667
+Egypt,Africa,Northern Africa,2008,8,36.0000
+Egypt,Africa,Northern Africa,2009,12,39.5833
+Egypt,Africa,Northern Africa,2010,7,32.8571
+Egypt,Africa,Northern Africa,2011,6,36.5000
+Egypt,Africa,Northern Africa,2012,17,33.9412
+Egypt,Africa,Northern Africa,2013,17,34.1765
+Egypt,Africa,Northern Africa,2014,18,31.6111
+Egypt,Africa,Northern Africa,2015,32,29.6563
+Egypt,Africa,Northern Africa,2016,41,31.6341
+El Salvador,Americas,Central America,2005,55,29.0727
+El Salvador,Americas,Central America,2006,53,29.1509
+El Salvador,Americas,Central America,2007,79,31.2152
+El Salvador,Americas,Central America,2008,113,28.9204
+El Salvador,Americas,Central America,2009,115,28.4261
+El Salvador,Americas,Central America,2010,138,29.2029
+El Salvador,Americas,Central America,2011,185,29.5892
+El Salvador,Americas,Central America,2012,221,30.0588
+El Salvador,Americas,Central America,2013,220,29.6773
+El Salvador,Americas,Central America,2014,182,31.2088
+El Salvador,Americas,Central America,2015,279,31.1434
+El Salvador,Americas,Central America,2016,259,30.0695
+Equatorial Guinea,Africa,Middle Africa,2007,1,51.0000
+Equatorial Guinea,Africa,Middle Africa,2011,1,32.0000
+Equatorial Guinea,Africa,Middle Africa,2014,1,20.0000
+Equatorial Guinea,Africa,Middle Africa,2015,1,21.0000
+Equatorial Guinea,Africa,Middle Africa,2016,1,22.0000
+Eritrea,Africa,Eastern Africa,2006,1,21.0000
+Eritrea,Africa,Eastern Africa,2016,2,11.0000
+Estonia,Europe,Northern Europe,2006,1,50.0000
+Estonia,Europe,Northern Europe,2007,2,27.0000
+Estonia,Europe,Northern Europe,2008,2,24.0000
+Estonia,Europe,Northern Europe,2009,1,29.0000
+Estonia,Europe,Northern Europe,2010,3,28.0000
+Estonia,Europe,Northern Europe,2011,4,29.7500
+Estonia,Europe,Northern Europe,2012,3,30.3333
+Estonia,Europe,Northern Europe,2013,4,24.0000
+Estonia,Europe,Northern Europe,2014,8,29.6250
+Estonia,Europe,Northern Europe,2015,10,29.5000
+Estonia,Europe,Northern Europe,2016,3,27.6667
+Ethiopia,Africa,Eastern Africa,2006,1,20.0000
+Ethiopia,Africa,Eastern Africa,2007,1,21.0000
+Ethiopia,Africa,Eastern Africa,2008,2,29.5000
+Ethiopia,Africa,Eastern Africa,2009,1,24.0000
+Ethiopia,Africa,Eastern Africa,2011,1,29.0000
+Ethiopia,Africa,Eastern Africa,2013,5,22.0000
+Ethiopia,Africa,Eastern Africa,2016,2,34.5000
+Fiji,Oceania,Melanesia,2009,2,39.5000
+Fiji,Oceania,Melanesia,2010,1,37.0000
+Fiji,Oceania,Melanesia,2011,2,41.5000
+Fiji,Oceania,Melanesia,2012,1,39.0000
+Fiji,Oceania,Melanesia,2015,1,30.0000
+Finland,Europe,Northern Europe,2005,37,36.5135
+Finland,Europe,Northern Europe,2006,54,39.0185
+Finland,Europe,Northern Europe,2007,32,35.0313
+Finland,Europe,Northern Europe,2008,32,36.7500
+Finland,Europe,Northern Europe,2009,33,37.9697
+Finland,Europe,Northern Europe,2010,40,38.7500
+Finland,Europe,Northern Europe,2011,41,35.2195
+Finland,Europe,Northern Europe,2012,57,34.8070
+Finland,Europe,Northern Europe,2013,60,38.8167
+Finland,Europe,Northern Europe,2014,70,36.5286
+Finland,Europe,Northern Europe,2015,32,36.5313
+Finland,Europe,Northern Europe,2016,36,32.0833
+France,Europe,Western Europe,2005,569,34.4306
+France,Europe,Western Europe,2006,571,32.6252
+France,Europe,Western Europe,2007,688,32.8372
+France,Europe,Western Europe,2008,710,33.1169
+France,Europe,Western Europe,2009,674,33.0964
+France,Europe,Western Europe,2010,856,34.2640
+France,Europe,Western Europe,2011,862,32.6949
+France,Europe,Western Europe,2012,1052,33.0456
+France,Europe,Western Europe,2013,1095,31.8429
+France,Europe,Western Europe,2014,1190,32.3252
+France,Europe,Western Europe,2015,1339,31.9634
+France,Europe,Western Europe,2016,1108,32.4278
+Gabon,Africa,Middle Africa,2008,1,38.0000
+Gambia,Africa,Western Africa,2006,1,54.0000
+Gambia,Africa,Western Africa,2011,1,34.0000
+Georgia,Asia,Western Asia,2005,1,27.0000
+Georgia,Asia,Western Asia,2006,1,28.0000
+Georgia,Asia,Western Asia,2009,1,59.0000
+Georgia,Asia,Western Asia,2010,1,60.0000
+Georgia,Asia,Western Asia,2011,3,22.6667
+Georgia,Asia,Western Asia,2012,2,51.5000
+Georgia,Asia,Western Asia,2013,3,31.6667
+Georgia,Asia,Western Asia,2014,4,47.5000
+Georgia,Asia,Western Asia,2015,3,54.0000
+Georgia,Asia,Western Asia,2016,4,25.2500
+Germany,Europe,Western Europe,2005,495,35.9758
+Germany,Europe,Western Europe,2006,481,35.5301
+Germany,Europe,Western Europe,2007,562,36.8149
+Germany,Europe,Western Europe,2008,614,35.3306
+Germany,Europe,Western Europe,2009,587,36.1789
+Germany,Europe,Western Europe,2010,644,35.2966
+Germany,Europe,Western Europe,2011,685,35.5153
+Germany,Europe,Western Europe,2012,747,34.1673
+Germany,Europe,Western Europe,2013,687,35.0451
+Germany,Europe,Western Europe,2014,845,36.7456
+Germany,Europe,Western Europe,2015,778,36.4743
+Germany,Europe,Western Europe,2016,582,35.1168
+Ghana,Africa,Western Africa,2008,6,36.1667
+Ghana,Africa,Western Africa,2009,4,40.5000
+Ghana,Africa,Western Africa,2010,9,31.0000
+Ghana,Africa,Western Africa,2011,5,38.8000
+Ghana,Africa,Western Africa,2012,7,31.5714
+Ghana,Africa,Western Africa,2013,9,34.1111
+Ghana,Africa,Western Africa,2014,9,29.8889
+Ghana,Africa,Western Africa,2015,17,28.0588
+Ghana,Africa,Western Africa,2016,17,33.7059
+Greece,Europe,Southern Europe,2005,4,26.5000
+Greece,Europe,Southern Europe,2006,10,36.6000
+Greece,Europe,Southern Europe,2007,9,36.1111
+Greece,Europe,Southern Europe,2008,6,40.6667
+Greece,Europe,Southern Europe,2009,9,39.1111
+Greece,Europe,Southern Europe,2010,12,33.6667
+Greece,Europe,Southern Europe,2011,13,39.1538
+Greece,Europe,Southern Europe,2012,28,34.9643
+Greece,Europe,Southern Europe,2013,24,37.5417
+Greece,Europe,Southern Europe,2014,38,38.2632
+Greece,Europe,Southern Europe,2015,49,37.9796
+Greece,Europe,Southern Europe,2016,44,39.5455
+Grenada,Americas,Caribbean,2005,1,1.0000
+Grenada,Americas,Caribbean,2006,1,2.0000
+Grenada,Americas,Caribbean,2009,1,39.0000
+Grenada,Americas,Caribbean,2014,1,31.0000
+Grenada,Americas,Caribbean,2015,2,31.5000
+Guatemala,Americas,Central America,2005,57,29.6140
+Guatemala,Americas,Central America,2006,60,26.3167
+Guatemala,Americas,Central America,2007,64,30.9531
+Guatemala,Americas,Central America,2008,98,28.3980
+Guatemala,Americas,Central America,2009,98,27.9286
+Guatemala,Americas,Central America,2010,118,28.2627
+Guatemala,Americas,Central America,2011,131,27.9618
+Guatemala,Americas,Central America,2012,210,27.8429
+Guatemala,Americas,Central America,2013,202,25.8713
+Guatemala,Americas,Central America,2014,187,27.1070
+Guatemala,Americas,Central America,2015,162,29.6296
+Guatemala,Americas,Central America,2016,148,29.8784
+Guinea,Africa,Western Africa,2005,1,26.0000
+Guinea,Africa,Western Africa,2006,1,27.0000
+Guinea,Africa,Western Africa,2008,2,28.5000
+Guinea,Africa,Western Africa,2009,1,27.0000
+Guinea,Africa,Western Africa,2011,1,31.0000
+Guinea,Africa,Western Africa,2012,2,26.0000
+Guinea,Africa,Western Africa,2013,1,44.0000
+Guinea,Africa,Western Africa,2014,3,29.3333
+Guinea,Africa,Western Africa,2015,4,30.2500
+Guinea,Africa,Western Africa,2016,4,32.0000
+Guinea-Bissau,Africa,Western Africa,2013,1,24.0000
+Guinea-Bissau,Africa,Western Africa,2015,1,29.0000
+Guyana,Americas,South America,2006,3,24.3333
+Guyana,Americas,South America,2007,2,33.5000
+Guyana,Americas,South America,2008,4,32.7500
+Guyana,Americas,South America,2009,2,25.5000
+Guyana,Americas,South America,2010,2,37.5000
+Guyana,Americas,South America,2011,1,31.0000
+Guyana,Americas,South America,2012,3,37.6667
+Guyana,Americas,South America,2013,3,28.6667
+Guyana,Americas,South America,2014,3,36.6667
+Haiti,Americas,Caribbean,2005,12,28.5000
+Haiti,Americas,Caribbean,2006,55,27.7636
+Haiti,Americas,Caribbean,2007,119,28.7143
+Haiti,Americas,Caribbean,2008,180,27.9556
+Haiti,Americas,Caribbean,2009,365,29.4301
+Haiti,Americas,Caribbean,2010,744,29.7446
+Haiti,Americas,Caribbean,2011,1188,29.8519
+Haiti,Americas,Caribbean,2012,1948,29.2361
+Haiti,Americas,Caribbean,2013,2868,29.0903
+Haiti,Americas,Caribbean,2014,4407,28.7810
+Haiti,Americas,Caribbean,2015,10071,29.7722
+Haiti,Americas,Caribbean,2016,27395,30.3771
+Honduras,Americas,Central America,2005,44,29.6818
+Honduras,Americas,Central America,2006,41,30.3659
+Honduras,Americas,Central America,2007,74,28.4189
+Honduras,Americas,Central America,2008,84,26.7857
+Honduras,Americas,Central America,2009,147,25.9048
+Honduras,Americas,Central America,2010,134,26.2910
+Honduras,Americas,Central America,2011,118,25.2542
+Honduras,Americas,Central America,2012,165,26.1758
+Honduras,Americas,Central America,2013,159,27.6289
+Honduras,Americas,Central America,2014,184,28.4293
+Honduras,Americas,Central America,2015,201,27.3881
+Honduras,Americas,Central America,2016,188,27.7872
+Hong Kong,Asia,Eastern Asia,2005,3,39.6667
+Hong Kong,Asia,Eastern Asia,2006,1,30.0000
+Hong Kong,Asia,Eastern Asia,2007,3,39.6667
+Hong Kong,Asia,Eastern Asia,2008,3,34.6667
+Hong Kong,Asia,Eastern Asia,2010,9,29.5556
+Hong Kong,Asia,Eastern Asia,2011,17,34.3529
+Hong Kong,Asia,Eastern Asia,2012,20,33.6000
+Hong Kong,Asia,Eastern Asia,2013,25,34.9600
+Hong Kong,Asia,Eastern Asia,2014,16,37.3125
+Hong Kong,Asia,Eastern Asia,2015,7,35.7143
+Hong Kong,Asia,Eastern Asia,2016,6,43.8333
+Hungary,Europe,Eastern Europe,2005,10,28.6000
+Hungary,Europe,Eastern Europe,2006,4,33.2500
+Hungary,Europe,Eastern Europe,2007,5,37.8000
+Hungary,Europe,Eastern Europe,2008,4,38.5000
+Hungary,Europe,Eastern Europe,2009,17,27.7059
+Hungary,Europe,Eastern Europe,2010,13,36.6154
+Hungary,Europe,Eastern Europe,2011,18,31.4444
+Hungary,Europe,Eastern Europe,2012,18,31.0556
+Hungary,Europe,Eastern Europe,2013,29,32.5172
+Hungary,Europe,Eastern Europe,2014,65,33.8923
+Hungary,Europe,Eastern Europe,2015,27,27.4444
+Hungary,Europe,Eastern Europe,2016,21,31.0952
+Iceland,Europe,Northern Europe,2005,9,26.4444
+Iceland,Europe,Northern Europe,2006,7,35.0000
+Iceland,Europe,Northern Europe,2008,2,35.0000
+Iceland,Europe,Northern Europe,2009,6,41.0000
+Iceland,Europe,Northern Europe,2010,5,37.6000
+Iceland,Europe,Northern Europe,2011,9,33.4444
+Iceland,Europe,Northern Europe,2012,5,37.2000
+Iceland,Europe,Northern Europe,2013,1,24.0000
+Iceland,Europe,Northern Europe,2014,3,40.6667
+Iceland,Europe,Northern Europe,2015,3,29.3333
+Iceland,Europe,Northern Europe,2016,2,24.5000
+India,Asia,Southern Asia,2005,171,29.9766
+India,Asia,Southern Asia,2006,222,30.5721
+India,Asia,Southern Asia,2007,264,29.6098
+India,Asia,Southern Asia,2008,261,30.5939
+India,Asia,Southern Asia,2009,228,32.3026
+India,Asia,Southern Asia,2010,266,31.0940
+India,Asia,Southern Asia,2011,260,32.2538
+India,Asia,Southern Asia,2012,327,30.9664
+India,Asia,Southern Asia,2013,293,31.1809
+India,Asia,Southern Asia,2014,308,32.1526
+India,Asia,Southern Asia,2015,414,31.1039
+India,Asia,Southern Asia,2016,401,30.9052
+Indonesia,Asia,South-Eastern Asia,2005,23,31.2174
+Indonesia,Asia,South-Eastern Asia,2006,19,35.4211
+Indonesia,Asia,South-Eastern Asia,2007,19,32.9474
+Indonesia,Asia,South-Eastern Asia,2008,22,35.3182
+Indonesia,Asia,South-Eastern Asia,2009,23,34.2174
+Indonesia,Asia,South-Eastern Asia,2010,101,34.7327
+Indonesia,Asia,South-Eastern Asia,2011,26,34.3077
+Indonesia,Asia,South-Eastern Asia,2012,34,31.9412
+Indonesia,Asia,South-Eastern Asia,2013,29,34.4483
+Indonesia,Asia,South-Eastern Asia,2014,54,35.6667
+Indonesia,Asia,South-Eastern Asia,2015,62,34.2581
+Indonesia,Asia,South-Eastern Asia,2016,59,36.2712
+Iran,Asia,Southern Asia,2005,11,30.4545
+Iran,Asia,Southern Asia,2006,9,32.8889
+Iran,Asia,Southern Asia,2007,17,28.6471
+Iran,Asia,Southern Asia,2008,16,29.8750
+Iran,Asia,Southern Asia,2009,11,31.7273
+Iran,Asia,Southern Asia,2010,8,35.5000
+Iran,Asia,Southern Asia,2011,10,31.1000
+Iran,Asia,Southern Asia,2012,16,32.3750
+Iran,Asia,Southern Asia,2013,29,35.1724
+Iran,Asia,Southern Asia,2014,35,36.0286
+Iran,Asia,Southern Asia,2015,54,34.9815
+Iran,Asia,Southern Asia,2016,44,36.5227
+Iraq,Asia,Western Asia,2005,8,19.5000
+Iraq,Asia,Western Asia,2006,1,19.0000
+Iraq,Asia,Western Asia,2007,7,27.2857
+Iraq,Asia,Western Asia,2008,1,21.0000
+Iraq,Asia,Western Asia,2009,2,23.5000
+Iraq,Asia,Western Asia,2010,29,34.7586
+Iraq,Asia,Western Asia,2011,3,25.3333
+Iraq,Asia,Western Asia,2012,2,28.5000
+Iraq,Asia,Western Asia,2013,3,42.6667
+Iraq,Asia,Western Asia,2014,1,24.0000
+Iraq,Asia,Western Asia,2015,5,17.4000
+Iraq,Asia,Western Asia,2016,6,20.0000
+Ireland,Europe,Northern Europe,2005,21,32.9048
+Ireland,Europe,Northern Europe,2006,27,34.1852
+Ireland,Europe,Northern Europe,2007,14,44.7143
+Ireland,Europe,Northern Europe,2008,23,34.9565
+Ireland,Europe,Northern Europe,2009,33,34.2121
+Ireland,Europe,Northern Europe,2010,26,36.8077
+Ireland,Europe,Northern Europe,2011,28,33.0000
+Ireland,Europe,Northern Europe,2012,39,37.5641
+Ireland,Europe,Northern Europe,2013,40,35.8250
+Ireland,Europe,Northern Europe,2014,34,35.7353
+Ireland,Europe,Northern Europe,2015,46,36.7391
+Ireland,Europe,Northern Europe,2016,40,34.8750
+Israel,Asia,Western Asia,2005,47,25.8298
+Israel,Asia,Western Asia,2006,48,34.0625
+Israel,Asia,Western Asia,2007,55,32.2727
+Israel,Asia,Western Asia,2008,64,33.8125
+Israel,Asia,Western Asia,2009,140,44.6714
+Israel,Asia,Western Asia,2010,45,33.6667
+Israel,Asia,Western Asia,2011,41,32.4146
+Israel,Asia,Western Asia,2012,66,31.1515
+Israel,Asia,Western Asia,2013,37,35.8378
+Israel,Asia,Western Asia,2014,89,29.6854
+Israel,Asia,Western Asia,2015,82,33.9024
+Israel,Asia,Western Asia,2016,61,30.0000
+Italy,Europe,Southern Europe,2005,269,38.7286
+Italy,Europe,Southern Europe,2006,255,39.1647
+Italy,Europe,Southern Europe,2007,269,39.1784
+Italy,Europe,Southern Europe,2008,316,41.0095
+Italy,Europe,Southern Europe,2009,370,41.0432
+Italy,Europe,Southern Europe,2010,626,41.9984
+Italy,Europe,Southern Europe,2011,526,40.5875
+Italy,Europe,Southern Europe,2012,562,39.3879
+Italy,Europe,Southern Europe,2013,724,37.9351
+Italy,Europe,Southern Europe,2014,723,38.2600
+Italy,Europe,Southern Europe,2015,865,36.7919
+Italy,Europe,Southern Europe,2016,716,37.4888
+Jamaica,Americas,Caribbean,2005,4,38.0000
+Jamaica,Americas,Caribbean,2006,2,47.0000
+Jamaica,Americas,Caribbean,2007,2,35.5000
+Jamaica,Americas,Caribbean,2008,4,38.5000
+Jamaica,Americas,Caribbean,2009,2,33.0000
+Jamaica,Americas,Caribbean,2010,4,32.0000
+Jamaica,Americas,Caribbean,2011,1,29.0000
+Jamaica,Americas,Caribbean,2012,2,36.5000
+Jamaica,Americas,Caribbean,2013,3,34.3333
+Jamaica,Americas,Caribbean,2014,6,28.3333
+Jamaica,Americas,Caribbean,2015,6,33.8333
+Jamaica,Americas,Caribbean,2016,5,27.6000
+Japan,Asia,Eastern Asia,2005,148,35.3986
+Japan,Asia,Eastern Asia,2006,159,36.2138
+Japan,Asia,Eastern Asia,2007,149,35.3624
+Japan,Asia,Eastern Asia,2008,163,35.1411
+Japan,Asia,Eastern Asia,2009,183,37.2240
+Japan,Asia,Eastern Asia,2010,146,34.3219
+Japan,Asia,Eastern Asia,2011,182,34.3297
+Japan,Asia,Eastern Asia,2012,214,33.9486
+Japan,Asia,Eastern Asia,2013,169,35.3491
+Japan,Asia,Eastern Asia,2014,251,34.5777
+Japan,Asia,Eastern Asia,2015,262,35.0649
+Japan,Asia,Eastern Asia,2016,207,32.6860
+Jordan,Asia,Western Asia,2005,8,37.5000
+Jordan,Asia,Western Asia,2006,8,54.0000
+Jordan,Asia,Western Asia,2007,3,40.0000
+Jordan,Asia,Western Asia,2008,5,39.4000
+Jordan,Asia,Western Asia,2009,9,44.1111
+Jordan,Asia,Western Asia,2010,16,28.5625
+Jordan,Asia,Western Asia,2011,9,31.0000
+Jordan,Asia,Western Asia,2012,25,35.4400
+Jordan,Asia,Western Asia,2013,18,35.8333
+Jordan,Asia,Western Asia,2014,15,45.8667
+Jordan,Asia,Western Asia,2015,26,42.0000
+Jordan,Asia,Western Asia,2016,27,40.2593
+Kazakhstan,Asia,Central Asia,2005,1,45.0000
+Kazakhstan,Asia,Central Asia,2009,2,29.0000
+Kazakhstan,Asia,Central Asia,2010,2,34.0000
+Kazakhstan,Asia,Central Asia,2011,1,23.0000
+Kazakhstan,Asia,Central Asia,2012,6,27.1667
+Kazakhstan,Asia,Central Asia,2013,1,22.0000
+Kazakhstan,Asia,Central Asia,2014,1,33.0000
+Kazakhstan,Asia,Central Asia,2015,2,24.5000
+Kazakhstan,Asia,Central Asia,2016,5,41.2000
+Kenya,Africa,Eastern Africa,2005,5,29.2000
+Kenya,Africa,Eastern Africa,2006,4,30.0000
+Kenya,Africa,Eastern Africa,2007,4,31.5000
+Kenya,Africa,Eastern Africa,2008,2,33.5000
+Kenya,Africa,Eastern Africa,2009,2,35.5000
+Kenya,Africa,Eastern Africa,2010,4,26.7500
+Kenya,Africa,Eastern Africa,2011,6,32.1667
+Kenya,Africa,Eastern Africa,2012,7,24.7143
+Kenya,Africa,Eastern Africa,2013,7,27.4286
+Kenya,Africa,Eastern Africa,2014,8,29.1250
+Kenya,Africa,Eastern Africa,2015,11,29.4545
+Kenya,Africa,Eastern Africa,2016,7,39.5714
+Kiribati,Oceania,Micronesia,2013,4,27.5000
+Kiribati,Oceania,Micronesia,2015,3,28.6667
+Kuwait,Asia,Western Asia,2006,1,43.0000
+Kyrgyzstan,Asia,Central Asia,2005,1,30.0000
+Kyrgyzstan,Asia,Central Asia,2006,1,31.0000
+Kyrgyzstan,Asia,Central Asia,2007,1,32.0000
+Kyrgyzstan,Asia,Central Asia,2008,2,31.5000
+Kyrgyzstan,Asia,Central Asia,2010,1,32.0000
+Kyrgyzstan,Asia,Central Asia,2011,3,22.6667
+Kyrgyzstan,Asia,Central Asia,2012,3,23.6667
+Kyrgyzstan,Asia,Central Asia,2013,1,33.0000
+Kyrgyzstan,Asia,Central Asia,2014,2,21.5000
+Kyrgyzstan,Asia,Central Asia,2015,2,22.5000
+Lao People's Democratic Republic,Asia,South-Eastern Asia,2013,1,22.0000
+Lao People's Democratic Republic,Asia,South-Eastern Asia,2015,1,28.0000
+Latvia,Europe,Northern Europe,2005,1,24.0000
+Latvia,Europe,Northern Europe,2006,1,20.0000
+Latvia,Europe,Northern Europe,2008,3,14.3333
+Latvia,Europe,Northern Europe,2009,3,28.0000
+Latvia,Europe,Northern Europe,2010,2,30.0000
+Latvia,Europe,Northern Europe,2011,8,23.5000
+Latvia,Europe,Northern Europe,2012,11,26.2727
+Latvia,Europe,Northern Europe,2013,15,28.6667
+Latvia,Europe,Northern Europe,2014,11,32.3636
+Latvia,Europe,Northern Europe,2015,24,33.7500
+Latvia,Europe,Northern Europe,2016,8,29.7500
+Lebanon,Asia,Western Asia,2005,21,29.1905
+Lebanon,Asia,Western Asia,2006,36,27.6111
+Lebanon,Asia,Western Asia,2007,44,25.8182
+Lebanon,Asia,Western Asia,2008,38,27.9474
+Lebanon,Asia,Western Asia,2009,34,31.3235
+Lebanon,Asia,Western Asia,2010,23,28.6522
+Lebanon,Asia,Western Asia,2011,23,28.9565
+Lebanon,Asia,Western Asia,2012,26,28.0000
+Lebanon,Asia,Western Asia,2013,40,29.0000
+Lebanon,Asia,Western Asia,2014,22,28.9545
+Lebanon,Asia,Western Asia,2015,24,30.8333
+Lebanon,Asia,Western Asia,2016,33,30.0606
+Lesotho,Africa,Southern Africa,2016,1,43.0000
+Liberia,Africa,Western Africa,2006,1,21.0000
+Liberia,Africa,Western Africa,2009,1,24.0000
+Liberia,Africa,Western Africa,2013,1,41.0000
+Liberia,Africa,Western Africa,2014,1,42.0000
+Libya,Africa,Northern Africa,2010,1,22.0000
+Libya,Africa,Northern Africa,2013,2,23.0000
+Libya,Africa,Northern Africa,2015,1,28.0000
+Libya,Africa,Northern Africa,2016,1,44.0000
+Liechtenstein,Europe,Western Europe,2008,1,26.0000
+Lithuania,Europe,Northern Europe,2005,1,23.0000
+Lithuania,Europe,Northern Europe,2006,2,26.5000
+Lithuania,Europe,Northern Europe,2007,2,23.5000
+Lithuania,Europe,Northern Europe,2008,6,26.6667
+Lithuania,Europe,Northern Europe,2009,27,38.5185
+Lithuania,Europe,Northern Europe,2010,8,36.6250
+Lithuania,Europe,Northern Europe,2011,28,39.6786
+Lithuania,Europe,Northern Europe,2012,12,30.7500
+Lithuania,Europe,Northern Europe,2013,13,29.0769
+Lithuania,Europe,Northern Europe,2014,10,34.4000
+Lithuania,Europe,Northern Europe,2015,14,31.9286
+Lithuania,Europe,Northern Europe,2016,10,32.3000
+Luxembourg,Europe,Western Europe,2005,3,38.0000
+Luxembourg,Europe,Western Europe,2009,1,31.0000
+Luxembourg,Europe,Western Europe,2010,1,32.0000
+Luxembourg,Europe,Western Europe,2014,2,35.5000
+Luxembourg,Europe,Western Europe,2015,3,33.0000
+Luxembourg,Europe,Western Europe,2016,1,37.0000
+Macao,Asia,Eastern Asia,2014,1,74.0000
+Macao,Asia,Eastern Asia,2016,4,38.0000
+Macedonia,Europe,Southern Europe,2005,3,34.0000
+Macedonia,Europe,Southern Europe,2006,2,30.5000
+Macedonia,Europe,Southern Europe,2007,1,39.0000
+Macedonia,Europe,Southern Europe,2008,4,52.5000
+Macedonia,Europe,Southern Europe,2009,2,71.0000
+Macedonia,Europe,Southern Europe,2010,3,24.0000
+Macedonia,Europe,Southern Europe,2011,2,50.0000
+Macedonia,Europe,Southern Europe,2012,2,39.5000
+Macedonia,Europe,Southern Europe,2013,1,41.0000
+Macedonia,Europe,Southern Europe,2015,2,35.0000
+Macedonia,Europe,Southern Europe,2016,2,38.0000
+Madagascar,Africa,Eastern Africa,2006,1,65.0000
+Madagascar,Africa,Eastern Africa,2011,3,31.0000
+Madagascar,Africa,Eastern Africa,2012,2,27.5000
+Madagascar,Africa,Eastern Africa,2013,2,37.0000
+Madagascar,Africa,Eastern Africa,2014,1,28.0000
+Madagascar,Africa,Eastern Africa,2015,2,54.0000
+Madagascar,Africa,Eastern Africa,2016,3,32.0000
+Malaysia,Asia,South-Eastern Asia,2005,6,33.0000
+Malaysia,Asia,South-Eastern Asia,2006,5,35.0000
+Malaysia,Asia,South-Eastern Asia,2007,4,34.5000
+Malaysia,Asia,South-Eastern Asia,2008,5,28.4000
+Malaysia,Asia,South-Eastern Asia,2009,5,34.6000
+Malaysia,Asia,South-Eastern Asia,2010,7,36.0000
+Malaysia,Asia,South-Eastern Asia,2011,7,33.5714
+Malaysia,Asia,South-Eastern Asia,2012,8,28.3750
+Malaysia,Asia,South-Eastern Asia,2013,10,28.0000
+Malaysia,Asia,South-Eastern Asia,2014,12,27.6667
+Malaysia,Asia,South-Eastern Asia,2015,16,25.2500
+Malaysia,Asia,South-Eastern Asia,2016,11,32.3636
+Mali,Africa,Western Africa,2007,1,54.0000
+Mali,Africa,Western Africa,2011,1,44.0000
+Mali,Africa,Western Africa,2014,6,5.8333
+Mali,Africa,Western Africa,2015,1,38.0000
+Mali,Africa,Western Africa,2016,1,39.0000
+Malta,Europe,Southern Europe,2005,2,60.0000
+Malta,Europe,Southern Europe,2012,2,34.0000
+Malta,Europe,Southern Europe,2013,1,63.0000
+Malta,Europe,Southern Europe,2014,2,36.0000
+Malta,Europe,Southern Europe,2015,1,27.0000
+Malta,Europe,Southern Europe,2016,1,53.0000
+Mauritania,Africa,Western Africa,2006,1,31.0000
+Mauritania,Africa,Western Africa,2015,1,27.0000
+Mauritius,Africa,Eastern Africa,2005,2,41.0000
+Mauritius,Africa,Eastern Africa,2007,2,27.0000
+Mauritius,Africa,Eastern Africa,2008,1,33.0000
+Mauritius,Africa,Eastern Africa,2009,3,35.0000
+Mauritius,Africa,Eastern Africa,2010,1,32.0000
+Mauritius,Africa,Eastern Africa,2011,2,34.5000
+Mauritius,Africa,Eastern Africa,2012,1,37.0000
+Mauritius,Africa,Eastern Africa,2013,2,36.5000
+Mauritius,Africa,Eastern Africa,2014,1,36.0000
+Mauritius,Africa,Eastern Africa,2015,2,35.5000
+Mexico,Americas,Central America,2005,599,28.9499
+Mexico,Americas,Central America,2006,688,29.5305
+Mexico,Americas,Central America,2007,853,30.3599
+Mexico,Americas,Central America,2008,849,30.1814
+Mexico,Americas,Central America,2009,880,31.4443
+Mexico,Americas,Central America,2010,917,30.7219
+Mexico,Americas,Central America,2011,1051,30.5576
+Mexico,Americas,Central America,2012,1339,30.9664
+Mexico,Americas,Central America,2013,1356,30.6600
+Mexico,Americas,Central America,2014,1458,31.3957
+Mexico,Americas,Central America,2015,1607,31.7268
+Mexico,Americas,Central America,2016,1346,30.9911
+Moldova,Europe,Eastern Europe,2005,2,36.5000
+Moldova,Europe,Eastern Europe,2006,9,26.6667
+Moldova,Europe,Eastern Europe,2007,9,30.2222
+Moldova,Europe,Eastern Europe,2008,5,27.0000
+Moldova,Europe,Eastern Europe,2009,14,33.5714
+Moldova,Europe,Eastern Europe,2010,9,38.3333
+Moldova,Europe,Eastern Europe,2011,13,31.6923
+Moldova,Europe,Eastern Europe,2012,10,39.6000
+Moldova,Europe,Eastern Europe,2013,10,35.7000
+Moldova,Europe,Eastern Europe,2014,2,32.0000
+Moldova,Europe,Eastern Europe,2015,4,27.7500
+Moldova,Europe,Eastern Europe,2016,4,30.0000
+Mongolia,Asia,Eastern Asia,2006,1,25.0000
+Mongolia,Asia,Eastern Asia,2008,1,31.0000
+Mongolia,Asia,Eastern Asia,2009,1,34.0000
+Mongolia,Asia,Eastern Asia,2016,1,27.0000
+Morocco,Africa,Northern Africa,2005,9,30.4444
+Morocco,Africa,Northern Africa,2006,9,36.8889
+Morocco,Africa,Northern Africa,2007,14,26.0000
+Morocco,Africa,Northern Africa,2008,16,29.6875
+Morocco,Africa,Northern Africa,2009,19,26.9474
+Morocco,Africa,Northern Africa,2010,14,31.1429
+Morocco,Africa,Northern Africa,2011,17,32.2353
+Morocco,Africa,Northern Africa,2012,23,33.0435
+Morocco,Africa,Northern Africa,2013,23,31.2174
+Morocco,Africa,Northern Africa,2014,18,34.4444
+Morocco,Africa,Northern Africa,2015,36,33.6111
+Morocco,Africa,Northern Africa,2016,29,33.3793
+Mozambique,Africa,Eastern Africa,2005,3,20.3333
+Mozambique,Africa,Eastern Africa,2006,5,30.8000
+Mozambique,Africa,Eastern Africa,2007,5,29.8000
+Mozambique,Africa,Eastern Africa,2008,2,31.5000
+Mozambique,Africa,Eastern Africa,2009,1,27.0000
+Mozambique,Africa,Eastern Africa,2010,4,25.7500
+Mozambique,Africa,Eastern Africa,2011,1,38.0000
+Mozambique,Africa,Eastern Africa,2012,2,34.5000
+Mozambique,Africa,Eastern Africa,2013,3,33.0000
+Mozambique,Africa,Eastern Africa,2014,1,31.0000
+Mozambique,Africa,Eastern Africa,2015,8,30.2500
+Mozambique,Africa,Eastern Africa,2016,5,29.8000
+Myanmar,Asia,South-Eastern Asia,2005,1,6.0000
+Myanmar,Asia,South-Eastern Asia,2006,1,14.0000
+Myanmar,Asia,South-Eastern Asia,2007,1,15.0000
+Myanmar,Asia,South-Eastern Asia,2008,1,27.0000
+Myanmar,Asia,South-Eastern Asia,2015,1,25.0000
+Myanmar,Asia,South-Eastern Asia,2016,1,26.0000
+Namibia,Africa,Southern Africa,2006,2,29.0000
+Namibia,Africa,Southern Africa,2011,1,32.0000
+Namibia,Africa,Southern Africa,2013,1,34.0000
+Namibia,Africa,Southern Africa,2015,4,28.5000
+Nepal,Asia,Southern Asia,2005,2,30.5000
+Nepal,Asia,Southern Asia,2006,4,30.2500
+Nepal,Asia,Southern Asia,2007,5,28.2000
+Nepal,Asia,Southern Asia,2008,10,28.9000
+Nepal,Asia,Southern Asia,2009,14,30.7143
+Nepal,Asia,Southern Asia,2010,17,31.5882
+Nepal,Asia,Southern Asia,2011,15,31.0667
+Nepal,Asia,Southern Asia,2012,41,28.9512
+Nepal,Asia,Southern Asia,2013,30,31.5667
+Nepal,Asia,Southern Asia,2014,28,32.2500
+Nepal,Asia,Southern Asia,2015,33,31.0303
+Nepal,Asia,Southern Asia,2016,70,26.4714
+Netherlands,Europe,Northern Europe,2005,115,34.6696
+Netherlands,Europe,Northern Europe,2006,118,38.2627
+Netherlands,Europe,Northern Europe,2007,125,37.2560
+Netherlands,Europe,Northern Europe,2008,118,35.8051
+Netherlands,Europe,Northern Europe,2009,140,35.9429
+Netherlands,Europe,Northern Europe,2010,119,36.7563
+Netherlands,Europe,Northern Europe,2011,130,39.2154
+Netherlands,Europe,Northern Europe,2012,159,36.0692
+Netherlands,Europe,Northern Europe,2013,145,37.6621
+Netherlands,Europe,Northern Europe,2014,170,37.4882
+Netherlands,Europe,Northern Europe,2015,151,35.5960
+Netherlands,Europe,Northern Europe,2016,101,37.4059
+New Zealand,Oceania,Australia and New Zealand,2005,52,32.8462
+New Zealand,Oceania,Australia and New Zealand,2006,44,34.6818
+New Zealand,Oceania,Australia and New Zealand,2007,59,31.4237
+New Zealand,Oceania,Australia and New Zealand,2008,88,30.2614
+New Zealand,Oceania,Australia and New Zealand,2009,81,29.7901
+New Zealand,Oceania,Australia and New Zealand,2010,75,34.5200
+New Zealand,Oceania,Australia and New Zealand,2011,99,32.7576
+New Zealand,Oceania,Australia and New Zealand,2012,83,31.0361
+New Zealand,Oceania,Australia and New Zealand,2013,70,31.5143
+New Zealand,Oceania,Australia and New Zealand,2014,68,35.6176
+New Zealand,Oceania,Australia and New Zealand,2015,71,37.3380
+New Zealand,Oceania,Australia and New Zealand,2016,50,37.2400
+Nicaragua,Americas,Central America,2005,43,27.8837
+Nicaragua,Americas,Central America,2006,44,30.0227
+Nicaragua,Americas,Central America,2007,42,30.5714
+Nicaragua,Americas,Central America,2008,76,29.3158
+Nicaragua,Americas,Central America,2009,83,27.3012
+Nicaragua,Americas,Central America,2010,80,28.4125
+Nicaragua,Americas,Central America,2011,102,27.7745
+Nicaragua,Americas,Central America,2012,105,29.0381
+Nicaragua,Americas,Central America,2013,94,30.3085
+Nicaragua,Americas,Central America,2014,87,30.0460
+Nicaragua,Americas,Central America,2015,103,30.4951
+Nicaragua,Americas,Central America,2016,83,31.5301
+Niger,Africa,Western Africa,2012,1,35.0000
+Nigeria,Africa,Western Africa,2005,1,42.0000
+Nigeria,Africa,Western Africa,2006,2,36.0000
+Nigeria,Africa,Western Africa,2007,2,33.5000
+Nigeria,Africa,Western Africa,2008,3,32.3333
+Nigeria,Africa,Western Africa,2009,4,25.0000
+Nigeria,Africa,Western Africa,2010,12,28.8333
+Nigeria,Africa,Western Africa,2011,11,29.0909
+Nigeria,Africa,Western Africa,2012,4,36.0000
+Nigeria,Africa,Western Africa,2013,5,35.2000
+Nigeria,Africa,Western Africa,2014,7,34.7143
+Nigeria,Africa,Western Africa,2015,11,33.0909
+Nigeria,Africa,Western Africa,2016,5,39.6000
+North Korea,Asia,Eastern Asia,2005,20,26.2500
+North Korea,Asia,Eastern Asia,2006,20,32.2500
+North Korea,Asia,Eastern Asia,2007,17,31.9412
+North Korea,Asia,Eastern Asia,2008,23,37.0870
+North Korea,Asia,Eastern Asia,2009,36,33.6667
+North Korea,Asia,Eastern Asia,2010,12,40.0000
+North Korea,Asia,Eastern Asia,2011,13,36.3077
+North Korea,Asia,Eastern Asia,2012,10,26.1000
+North Korea,Asia,Eastern Asia,2013,7,27.4286
+North Korea,Asia,Eastern Asia,2014,4,35.5000
+North Korea,Asia,Eastern Asia,2015,1,40.0000
+North Korea,Asia,Eastern Asia,2016,1,41.0000
+Norway,Europe,Northern Europe,2005,67,38.0448
+Norway,Europe,Northern Europe,2006,63,40.0000
+Norway,Europe,Northern Europe,2007,65,42.0154
+Norway,Europe,Northern Europe,2008,79,41.8101
+Norway,Europe,Northern Europe,2009,64,42.9375
+Norway,Europe,Northern Europe,2010,67,43.8507
+Norway,Europe,Northern Europe,2011,82,45.4268
+Norway,Europe,Northern Europe,2012,85,43.9882
+Norway,Europe,Northern Europe,2013,65,43.0923
+Norway,Europe,Northern Europe,2014,75,41.6267
+Norway,Europe,Northern Europe,2015,67,42.1493
+Norway,Europe,Northern Europe,2016,45,48.7111
+Oman,Asia,Western Asia,2007,1,21.0000
+Oman,Asia,Western Asia,2012,1,50.0000
+Oman,Asia,Western Asia,2013,1,58.0000
+Oman,Asia,Western Asia,2015,1,19.0000
+Oman,Asia,Western Asia,2016,1,5.0000
+Pakistan,Asia,Southern Asia,2005,63,30.2063
+Pakistan,Asia,Southern Asia,2006,82,32.2927
+Pakistan,Asia,Southern Asia,2007,107,32.5514
+Pakistan,Asia,Southern Asia,2008,114,34.0789
+Pakistan,Asia,Southern Asia,2009,138,29.2319
+Pakistan,Asia,Southern Asia,2010,115,30.3043
+Pakistan,Asia,Southern Asia,2011,87,32.1379
+Pakistan,Asia,Southern Asia,2012,109,32.4771
+Pakistan,Asia,Southern Asia,2013,128,31.1484
+Pakistan,Asia,Southern Asia,2014,74,34.3378
+Pakistan,Asia,Southern Asia,2015,147,30.8163
+Pakistan,Asia,Southern Asia,2016,199,29.9749
+Panama,Americas,Central America,2005,72,25.8056
+Panama,Americas,Central America,2006,89,27.8652
+Panama,Americas,Central America,2007,161,26.0994
+Panama,Americas,Central America,2008,305,25.4459
+Panama,Americas,Central America,2009,322,24.5839
+Panama,Americas,Central America,2010,224,25.4866
+Panama,Americas,Central America,2011,247,26.3765
+Panama,Americas,Central America,2012,197,26.4112
+Panama,Americas,Central America,2013,171,29.0877
+Panama,Americas,Central America,2014,136,29.3824
+Panama,Americas,Central America,2015,131,29.5267
+Panama,Americas,Central America,2016,132,30.4318
+Paraguay,Americas,South America,2005,403,28.4665
+Paraguay,Americas,South America,2006,447,27.5235
+Paraguay,Americas,South America,2007,782,27.6688
+Paraguay,Americas,South America,2008,824,26.8022
+Paraguay,Americas,South America,2009,874,26.8810
+Paraguay,Americas,South America,2010,889,26.3532
+Paraguay,Americas,South America,2011,1052,27.2243
+Paraguay,Americas,South America,2012,1286,26.7481
+Paraguay,Americas,South America,2013,1331,27.0466
+Paraguay,Americas,South America,2014,1391,26.9547
+Paraguay,Americas,South America,2015,1556,27.4120
+Paraguay,Americas,South America,2016,1422,27.1646
+Peru,Americas,South America,2005,25966,30.0154
+Peru,Americas,South America,2006,32746,30.1385
+Peru,Americas,South America,2007,63869,30.3477
+Peru,Americas,South America,2008,47336,29.9386
+Peru,Americas,South America,2009,56586,30.5344
+Peru,Americas,South America,2010,38048,29.7950
+Peru,Americas,South America,2011,40628,29.5707
+Peru,Americas,South America,2012,49643,29.7597
+Peru,Americas,South America,2013,48517,29.8979
+Peru,Americas,South America,2014,49900,30.0023
+Peru,Americas,South America,2015,59767,30.3069
+Peru,Americas,South America,2016,53624,30.2980
+Philippines,Asia,South-Eastern Asia,2005,22,33.2273
+Philippines,Asia,South-Eastern Asia,2006,27,35.2963
+Philippines,Asia,South-Eastern Asia,2007,21,36.7619
+Philippines,Asia,South-Eastern Asia,2008,36,37.5278
+Philippines,Asia,South-Eastern Asia,2009,49,36.8571
+Philippines,Asia,South-Eastern Asia,2010,75,37.6400
+Philippines,Asia,South-Eastern Asia,2011,79,36.3797
+Philippines,Asia,South-Eastern Asia,2012,58,35.2759
+Philippines,Asia,South-Eastern Asia,2013,58,37.3103
+Philippines,Asia,South-Eastern Asia,2014,88,38.1705
+Philippines,Asia,South-Eastern Asia,2015,177,39.0791
+Philippines,Asia,South-Eastern Asia,2016,187,38.6417
+Poland,Europe,Eastern Europe,2005,34,34.4706
+Poland,Europe,Eastern Europe,2006,37,31.2432
+Poland,Europe,Eastern Europe,2007,50,32.2000
+Poland,Europe,Eastern Europe,2008,47,29.0851
+Poland,Europe,Eastern Europe,2009,49,31.7143
+Poland,Europe,Eastern Europe,2010,60,31.5667
+Poland,Europe,Eastern Europe,2011,140,36.4357
+Poland,Europe,Eastern Europe,2012,77,31.5974
+Poland,Europe,Eastern Europe,2013,127,32.8740
+Poland,Europe,Eastern Europe,2014,112,33.5089
+Poland,Europe,Eastern Europe,2015,154,36.0000
+Poland,Europe,Eastern Europe,2016,113,33.6991
+Portugal,Europe,Southern Europe,2005,16,32.1875
+Portugal,Europe,Southern Europe,2006,25,37.8400
+Portugal,Europe,Southern Europe,2007,28,37.7500
+Portugal,Europe,Southern Europe,2008,42,36.6190
+Portugal,Europe,Southern Europe,2009,33,32.1212
+Portugal,Europe,Southern Europe,2010,62,36.4355
+Portugal,Europe,Southern Europe,2011,80,37.5625
+Portugal,Europe,Southern Europe,2012,166,35.2771
+Portugal,Europe,Southern Europe,2013,334,36.7635
+Portugal,Europe,Southern Europe,2014,381,37.0079
+Portugal,Europe,Southern Europe,2015,466,38.6288
+Portugal,Europe,Southern Europe,2016,377,38.9072
+Puerto Rico,Americas,Caribbean,2012,1,22.0000
+Puerto Rico,Americas,Caribbean,2013,1,23.0000
+Puerto Rico,Americas,Caribbean,2015,2,48.0000
+Puerto Rico,Americas,Caribbean,2016,1,47.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2005,12,31.3333
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2006,18,33.7222
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2007,22,37.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2008,17,35.1765
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2009,14,44.2857
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2010,1,33.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2012,1,26.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2013,10,25.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2014,11,38.0000
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2015,12,30.8333
+Republica Federal de Yugoslavia (Serbia y Montenegro),Other,Other,2016,2,38.5000
+Romania,Europe,Eastern Europe,2005,29,32.1724
+Romania,Europe,Eastern Europe,2006,24,38.8750
+Romania,Europe,Eastern Europe,2007,24,35.8333
+Romania,Europe,Eastern Europe,2008,29,37.2069
+Romania,Europe,Eastern Europe,2009,39,37.5897
+Romania,Europe,Eastern Europe,2010,47,34.1064
+Romania,Europe,Eastern Europe,2011,72,42.6528
+Romania,Europe,Eastern Europe,2012,61,34.1967
+Romania,Europe,Eastern Europe,2013,122,36.2049
+Romania,Europe,Eastern Europe,2014,117,35.7436
+Romania,Europe,Eastern Europe,2015,128,38.8047
+Romania,Europe,Eastern Europe,2016,136,35.8382
+Russian Federation,Europe,Eastern Europe,2005,88,34.0227
+Russian Federation,Europe,Eastern Europe,2006,73,32.6164
+Russian Federation,Europe,Eastern Europe,2007,135,33.2148
+Russian Federation,Europe,Eastern Europe,2008,129,32.7287
+Russian Federation,Europe,Eastern Europe,2009,146,33.2192
+Russian Federation,Europe,Eastern Europe,2010,177,31.8701
+Russian Federation,Europe,Eastern Europe,2011,218,34.6376
+Russian Federation,Europe,Eastern Europe,2012,245,32.7102
+Russian Federation,Europe,Eastern Europe,2013,249,32.1365
+Russian Federation,Europe,Eastern Europe,2014,322,31.0559
+Russian Federation,Europe,Eastern Europe,2015,339,32.2124
+Russian Federation,Europe,Eastern Europe,2016,331,33.7432
+Rwanda,Africa,Eastern Africa,2005,2,6.0000
+Saint Kitts and Nevis,Americas,Caribbean,2010,1,62.0000
+Saint Kitts and Nevis,Americas,Caribbean,2011,2,44.5000
+Saint Kitts and Nevis,Americas,Caribbean,2013,1,59.0000
+Saint Kitts and Nevis,Americas,Caribbean,2014,2,65.0000
+Saint Kitts and Nevis,Americas,Caribbean,2015,1,61.0000
+Saint Lucia,Americas,Caribbean,2013,1,42.0000
+Saint Lucia,Americas,Caribbean,2014,1,48.0000
+Saint Lucia,Americas,Caribbean,2015,2,51.0000
+Saint Vincent and the Grenadines,Americas,Caribbean,2005,1,28.0000
+Saint Vincent and the Grenadines,Americas,Caribbean,2006,3,28.3333
+Saint Vincent and the Grenadines,Americas,Caribbean,2007,3,30.6667
+Saint Vincent and the Grenadines,Americas,Caribbean,2008,4,31.5000
+Saint Vincent and the Grenadines,Americas,Caribbean,2009,2,34.0000
+Saint Vincent and the Grenadines,Americas,Caribbean,2011,1,38.0000
+Saint Vincent and the Grenadines,Americas,Caribbean,2013,2,58.0000
+Saint Vincent and the Grenadines,Americas,Caribbean,2014,1,41.0000
+Samoa,Oceania,Polynesia,2009,1,23.0000
+San Marino,Europe,Southern Europe,2007,1,30.0000
+San Marino,Europe,Southern Europe,2011,1,39.0000
+San Marino,Europe,Southern Europe,2012,1,40.0000
+Sao Tome and Principe,Africa,Middle Africa,2009,1,18.0000
+Sao Tome and Principe,Africa,Middle Africa,2010,1,19.0000
+Saudi Arabia,Asia,Western Asia,2005,1,36.0000
+Saudi Arabia,Asia,Western Asia,2006,2,35.5000
+Saudi Arabia,Asia,Western Asia,2009,1,26.0000
+Saudi Arabia,Asia,Western Asia,2012,2,47.5000
+Saudi Arabia,Asia,Western Asia,2013,2,67.0000
+Senegal,Africa,Western Africa,2010,7,27.5714
+Senegal,Africa,Western Africa,2011,1,31.0000
+Senegal,Africa,Western Africa,2012,3,30.3333
+Senegal,Africa,Western Africa,2013,5,31.8000
+Senegal,Africa,Western Africa,2014,8,30.7500
+Senegal,Africa,Western Africa,2015,8,33.6250
+Senegal,Africa,Western Africa,2016,7,35.2857
+Serbia,Europe,Southern Europe,2007,1,29.0000
+Serbia,Europe,Southern Europe,2008,1,32.0000
+Serbia,Europe,Southern Europe,2009,7,36.7143
+Serbia,Europe,Southern Europe,2010,13,45.4615
+Serbia,Europe,Southern Europe,2011,30,41.0000
+Serbia,Europe,Southern Europe,2012,31,41.5806
+Serbia,Europe,Southern Europe,2013,16,45.8125
+Serbia,Europe,Southern Europe,2014,20,36.4500
+Serbia,Europe,Southern Europe,2015,23,37.7826
+Serbia,Europe,Southern Europe,2016,19,36.5263
+Sierra Leone,Africa,Western Africa,2005,5,23.2000
+Sierra Leone,Africa,Western Africa,2006,5,24.2000
+Sierra Leone,Africa,Western Africa,2007,1,25.0000
+Sierra Leone,Africa,Western Africa,2008,3,26.3333
+Singapore,Asia,South-Eastern Asia,2005,12,32.0000
+Singapore,Asia,South-Eastern Asia,2006,9,20.1111
+Singapore,Asia,South-Eastern Asia,2007,6,26.6667
+Singapore,Asia,South-Eastern Asia,2008,1,73.0000
+Singapore,Asia,South-Eastern Asia,2009,6,31.1667
+Singapore,Asia,South-Eastern Asia,2010,7,28.2857
+Singapore,Asia,South-Eastern Asia,2011,9,40.1111
+Singapore,Asia,South-Eastern Asia,2012,8,37.6250
+Singapore,Asia,South-Eastern Asia,2013,5,34.6000
+Singapore,Asia,South-Eastern Asia,2014,2,37.0000
+Singapore,Asia,South-Eastern Asia,2015,7,27.2857
+Singapore,Asia,South-Eastern Asia,2016,6,36.0000
+Slovakia,Europe,Eastern Europe,2005,1,24.0000
+Slovakia,Europe,Eastern Europe,2006,1,43.0000
+Slovakia,Europe,Eastern Europe,2007,2,30.5000
+Slovakia,Europe,Eastern Europe,2008,5,31.8000
+Slovakia,Europe,Eastern Europe,2009,6,29.0000
+Slovakia,Europe,Eastern Europe,2010,27,39.3704
+Slovakia,Europe,Eastern Europe,2011,34,40.0588
+Slovakia,Europe,Eastern Europe,2012,28,37.0714
+Slovakia,Europe,Eastern Europe,2013,100,38.9900
+Slovakia,Europe,Eastern Europe,2014,55,37.4909
+Slovakia,Europe,Eastern Europe,2015,22,36.8636
+Slovakia,Europe,Eastern Europe,2016,16,36.1875
+Slovenia,Europe,Southern Europe,2008,2,32.5000
+Slovenia,Europe,Southern Europe,2009,6,36.5000
+Slovenia,Europe,Southern Europe,2010,1,34.0000
+Slovenia,Europe,Southern Europe,2011,12,43.4167
+Slovenia,Europe,Southern Europe,2012,9,32.3333
+Slovenia,Europe,Southern Europe,2013,10,35.1000
+Slovenia,Europe,Southern Europe,2014,19,30.8421
+Slovenia,Europe,Southern Europe,2015,14,31.7143
+Slovenia,Europe,Southern Europe,2016,15,32.8000
+Solomon Islands,Oceania,Melanesia,2005,2,19.0000
+Solomon Islands,Oceania,Melanesia,2006,1,21.0000
+Solomon Islands,Oceania,Melanesia,2007,2,21.0000
+Solomon Islands,Oceania,Melanesia,2008,1,21.0000
+Solomon Islands,Oceania,Melanesia,2009,2,23.0000
+Somalia,Africa,Eastern Africa,2010,2,25.0000
+Somalia,Africa,Eastern Africa,2014,1,40.0000
+Somalia,Africa,Eastern Africa,2015,1,41.0000
+South Africa,Africa,Southern Africa,2005,43,29.3488
+South Africa,Africa,Southern Africa,2006,52,29.0577
+South Africa,Africa,Southern Africa,2007,58,33.2414
+South Africa,Africa,Southern Africa,2008,89,32.6517
+South Africa,Africa,Southern Africa,2009,94,29.5213
+South Africa,Africa,Southern Africa,2010,69,33.9130
+South Africa,Africa,Southern Africa,2011,100,34.2200
+South Africa,Africa,Southern Africa,2012,96,32.1042
+South Africa,Africa,Southern Africa,2013,94,37.0957
+South Africa,Africa,Southern Africa,2014,93,37.1183
+South Africa,Africa,Southern Africa,2015,89,35.1573
+South Africa,Africa,Southern Africa,2016,65,39.7692
+South Korea,Asia,Eastern Asia,2005,315,32.5587
+South Korea,Asia,Eastern Asia,2006,345,33.4000
+South Korea,Asia,Eastern Asia,2007,320,34.4000
+South Korea,Asia,Eastern Asia,2008,376,33.9229
+South Korea,Asia,Eastern Asia,2009,425,36.0141
+South Korea,Asia,Eastern Asia,2010,544,39.6029
+South Korea,Asia,Eastern Asia,2011,558,35.8047
+South Korea,Asia,Eastern Asia,2012,442,33.9593
+South Korea,Asia,Eastern Asia,2013,445,33.9596
+South Korea,Asia,Eastern Asia,2014,460,34.8565
+South Korea,Asia,Eastern Asia,2015,661,38.4584
+South Korea,Asia,Eastern Asia,2016,505,37.5228
+Spain,Europe,Southern Europe,2005,825,36.3030
+Spain,Europe,Southern Europe,2006,869,36.4511
+Spain,Europe,Southern Europe,2007,944,36.0371
+Spain,Europe,Southern Europe,2008,936,37.6100
+Spain,Europe,Southern Europe,2009,1092,36.5183
+Spain,Europe,Southern Europe,2010,1170,36.1632
+Spain,Europe,Southern Europe,2011,1508,35.5763
+Spain,Europe,Southern Europe,2012,2989,34.7126
+Spain,Europe,Southern Europe,2013,5737,34.1482
+Spain,Europe,Southern Europe,2014,6262,34.3084
+Spain,Europe,Southern Europe,2015,6313,34.5440
+Spain,Europe,Southern Europe,2016,4458,35.6561
+Sri Lanka,Asia,Southern Asia,2006,1,26.0000
+Sri Lanka,Asia,Southern Asia,2008,10,33.5000
+Sri Lanka,Asia,Southern Asia,2009,4,36.7500
+Sri Lanka,Asia,Southern Asia,2010,6,26.6667
+Sri Lanka,Asia,Southern Asia,2011,3,35.0000
+Sri Lanka,Asia,Southern Asia,2012,8,23.2500
+Sri Lanka,Asia,Southern Asia,2013,5,25.4000
+Sri Lanka,Asia,Southern Asia,2014,9,26.2222
+Sri Lanka,Asia,Southern Asia,2015,7,26.1429
+Sri Lanka,Asia,Southern Asia,2016,10,28.9000
+Suriname,Americas,South America,2009,4,23.5000
+Suriname,Americas,South America,2010,1,60.0000
+Suriname,Americas,South America,2015,5,28.6000
+Suriname,Americas,South America,2016,4,27.5000
+Swaziland,Africa,Southern Africa,2011,1,39.0000
+Sweden,Europe,Northern Europe,2005,95,34.9368
+Sweden,Europe,Northern Europe,2006,82,37.9024
+Sweden,Europe,Northern Europe,2007,83,40.5783
+Sweden,Europe,Northern Europe,2008,82,35.7073
+Sweden,Europe,Northern Europe,2009,73,38.6301
+Sweden,Europe,Northern Europe,2010,68,41.3088
+Sweden,Europe,Northern Europe,2011,80,40.6500
+Sweden,Europe,Northern Europe,2012,111,39.2973
+Sweden,Europe,Northern Europe,2013,94,40.6064
+Sweden,Europe,Northern Europe,2014,81,39.8519
+Sweden,Europe,Northern Europe,2015,84,41.7976
+Sweden,Europe,Northern Europe,2016,65,40.0154
+Switzerland,Europe,Western Europe,2005,104,35.3846
+Switzerland,Europe,Western Europe,2006,94,38.1277
+Switzerland,Europe,Western Europe,2007,113,37.3540
+Switzerland,Europe,Western Europe,2008,128,35.2813
+Switzerland,Europe,Western Europe,2009,138,35.3188
+Switzerland,Europe,Western Europe,2010,98,37.8571
+Switzerland,Europe,Western Europe,2011,146,35.8014
+Switzerland,Europe,Western Europe,2012,148,37.4797
+Switzerland,Europe,Western Europe,2013,145,35.0207
+Switzerland,Europe,Western Europe,2014,142,37.0915
+Switzerland,Europe,Western Europe,2015,146,35.9726
+Switzerland,Europe,Western Europe,2016,119,36.5966
+Syrian Arab Republic,Asia,Western Asia,2005,28,31.7500
+Syrian Arab Republic,Asia,Western Asia,2006,28,36.1429
+Syrian Arab Republic,Asia,Western Asia,2007,34,32.9706
+Syrian Arab Republic,Asia,Western Asia,2008,22,33.6364
+Syrian Arab Republic,Asia,Western Asia,2009,30,31.1667
+Syrian Arab Republic,Asia,Western Asia,2010,16,29.5000
+Syrian Arab Republic,Asia,Western Asia,2011,19,31.8421
+Syrian Arab Republic,Asia,Western Asia,2012,42,29.5714
+Syrian Arab Republic,Asia,Western Asia,2013,42,32.0000
+Syrian Arab Republic,Asia,Western Asia,2014,44,38.8182
+Syrian Arab Republic,Asia,Western Asia,2015,77,33.4156
+Syrian Arab Republic,Asia,Western Asia,2016,137,28.4380
+Taiwan,Asia,Western Asia,2005,36,32.3333
+Taiwan,Asia,Western Asia,2006,58,30.8966
+Taiwan,Asia,Western Asia,2007,71,34.4789
+Taiwan,Asia,Western Asia,2008,66,34.2727
+Taiwan,Asia,Western Asia,2009,65,35.5231
+Taiwan,Asia,Western Asia,2010,60,37.0833
+Taiwan,Asia,Western Asia,2011,60,37.3500
+Taiwan,Asia,Western Asia,2012,74,36.1351
+Taiwan,Asia,Western Asia,2013,71,36.5070
+Taiwan,Asia,Western Asia,2014,83,37.6506
+Taiwan,Asia,Western Asia,2015,75,35.6667
+Taiwan,Asia,Western Asia,2016,61,32.5902
+Tanzania,Asia,Western Asia,2005,3,36.6667
+Tanzania,Asia,Western Asia,2006,1,44.0000
+Tanzania,Asia,Western Asia,2008,1,46.0000
+Tanzania,Asia,Western Asia,2011,1,27.0000
+Tanzania,Asia,Western Asia,2013,20,33.0500
+Tanzania,Asia,Western Asia,2014,1,30.0000
+Thailand,Asia,South-Eastern Asia,2005,11,34.1818
+Thailand,Asia,South-Eastern Asia,2006,11,35.0000
+Thailand,Asia,South-Eastern Asia,2007,7,39.1429
+Thailand,Asia,South-Eastern Asia,2008,19,32.3684
+Thailand,Asia,South-Eastern Asia,2009,14,27.8571
+Thailand,Asia,South-Eastern Asia,2010,19,30.6316
+Thailand,Asia,South-Eastern Asia,2011,15,30.2667
+Thailand,Asia,South-Eastern Asia,2012,16,37.6875
+Thailand,Asia,South-Eastern Asia,2013,28,37.1071
+Thailand,Asia,South-Eastern Asia,2014,21,41.7143
+Thailand,Asia,South-Eastern Asia,2015,27,39.5185
+Thailand,Asia,South-Eastern Asia,2016,36,37.8333
+Togo,Africa,Western Africa,2005,1,33.0000
+Togo,Africa,Western Africa,2006,1,34.0000
+Togo,Africa,Western Africa,2013,1,26.0000
+Togo,Africa,Western Africa,2015,2,30.0000
+Togo,Africa,Western Africa,2016,1,30.0000
+Tonga,Oceania,Polynesia,2005,1,50.0000
+Tonga,Oceania,Polynesia,2008,1,22.0000
+Tonga,Oceania,Polynesia,2009,1,23.0000
+Tonga,Oceania,Polynesia,2013,1,44.0000
+Tonga,Oceania,Polynesia,2014,1,45.0000
+Trinidad and Tobago,Americas,Caribbean,2005,4,47.2500
+Trinidad and Tobago,Americas,Caribbean,2006,9,28.6667
+Trinidad and Tobago,Americas,Caribbean,2007,14,31.0714
+Trinidad and Tobago,Americas,Caribbean,2008,13,40.6154
+Trinidad and Tobago,Americas,Caribbean,2009,4,34.2500
+Trinidad and Tobago,Americas,Caribbean,2010,7,49.2857
+Trinidad and Tobago,Americas,Caribbean,2011,3,47.6667
+Trinidad and Tobago,Americas,Caribbean,2012,5,41.6000
+Trinidad and Tobago,Americas,Caribbean,2013,3,25.6667
+Trinidad and Tobago,Americas,Caribbean,2014,7,38.5714
+Trinidad and Tobago,Americas,Caribbean,2015,5,21.0000
+Trinidad and Tobago,Americas,Caribbean,2016,3,19.3333
+Tunisia,Africa,Northern Africa,2005,1,32.0000
+Tunisia,Africa,Northern Africa,2006,2,34.0000
+Tunisia,Africa,Northern Africa,2007,2,33.0000
+Tunisia,Africa,Northern Africa,2008,5,33.0000
+Tunisia,Africa,Northern Africa,2009,4,35.7500
+Tunisia,Africa,Northern Africa,2010,3,35.6667
+Tunisia,Africa,Northern Africa,2011,2,32.5000
+Tunisia,Africa,Northern Africa,2012,5,37.4000
+Tunisia,Africa,Northern Africa,2013,5,30.4000
+Tunisia,Africa,Northern Africa,2014,2,34.0000
+Tunisia,Africa,Northern Africa,2015,10,29.5000
+Tunisia,Africa,Northern Africa,2016,12,31.5833
+Turkey,Asia,Western Asia,2005,54,28.3333
+Turkey,Asia,Western Asia,2006,70,31.0571
+Turkey,Asia,Western Asia,2007,71,28.2254
+Turkey,Asia,Western Asia,2008,74,31.3108
+Turkey,Asia,Western Asia,2009,66,32.6212
+Turkey,Asia,Western Asia,2010,74,29.4595
+Turkey,Asia,Western Asia,2011,87,29.0345
+Turkey,Asia,Western Asia,2012,129,31.8915
+Turkey,Asia,Western Asia,2013,90,31.0000
+Turkey,Asia,Western Asia,2014,100,30.6000
+Turkey,Asia,Western Asia,2015,148,32.1216
+Turkey,Asia,Western Asia,2016,127,29.9606
+Turks and Caicos Islands,Americas,Caribbean,2009,4,25.7500
+Turks and Caicos Islands,Americas,Caribbean,2011,4,27.7500
+Uganda,Africa,Eastern Africa,2011,1,88.0000
+Uganda,Africa,Eastern Africa,2013,1,90.0000
+Uganda,Africa,Eastern Africa,2015,1,48.0000
+Ukraine,Europe,Eastern Europe,2005,30,33.2333
+Ukraine,Europe,Eastern Europe,2006,31,33.6452
+Ukraine,Europe,Eastern Europe,2007,33,31.3030
+Ukraine,Europe,Eastern Europe,2008,41,31.8049
+Ukraine,Europe,Eastern Europe,2009,34,33.4412
+Ukraine,Europe,Eastern Europe,2010,41,32.2195
+Ukraine,Europe,Eastern Europe,2011,56,31.5179
+Ukraine,Europe,Eastern Europe,2012,75,33.5200
+Ukraine,Europe,Eastern Europe,2013,54,32.4630
+Ukraine,Europe,Eastern Europe,2014,65,30.2615
+Ukraine,Europe,Eastern Europe,2015,91,31.3077
+Ukraine,Europe,Eastern Europe,2016,103,32.2233
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2005,227,34.5066
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2006,192,37.9792
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2007,228,35.2456
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2008,255,36.5451
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2009,284,35.2042
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2010,269,35.2082
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2011,236,35.1144
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2012,281,33.9893
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2013,279,33.6703
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2014,280,34.1071
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2015,248,35.7460
+United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,2016,55,34.5455
+United States of America,Americas,Northern America,2005,1984,29.4199
+United States of America,Americas,Northern America,2006,1926,30.9418
+United States of America,Americas,Northern America,2007,2041,30.6595
+United States of America,Americas,Northern America,2008,2377,30.2427
+United States of America,Americas,Northern America,2009,2615,28.8623
+United States of America,Americas,Northern America,2010,3287,29.0742
+United States of America,Americas,Northern America,2011,3425,29.3784
+United States of America,Americas,Northern America,2012,3976,30.4464
+United States of America,Americas,Northern America,2013,3749,29.9571
+United States of America,Americas,Northern America,2014,3796,28.7566
+United States of America,Americas,Northern America,2015,3413,29.4621
+United States of America,Americas,Northern America,2016,2673,28.7636
+Uruguay,Americas,South America,2005,1077,30.1476
+Uruguay,Americas,South America,2006,1099,30.3003
+Uruguay,Americas,South America,2007,1275,30.8486
+Uruguay,Americas,South America,2008,1271,30.6098
+Uruguay,Americas,South America,2009,1171,31.8437
+Uruguay,Americas,South America,2010,1190,31.7420
+Uruguay,Americas,South America,2011,1075,31.8586
+Uruguay,Americas,South America,2012,1186,32.5438
+Uruguay,Americas,South America,2013,956,32.6872
+Uruguay,Americas,South America,2014,957,33.3323
+Uruguay,Americas,South America,2015,1072,33.6222
+Uruguay,Americas,South America,2016,858,33.8380
+Uzbekistan,Asia,Central Asia,2005,2,39.5000
+Uzbekistan,Asia,Central Asia,2006,4,31.0000
+Uzbekistan,Asia,Central Asia,2007,1,30.0000
+Uzbekistan,Asia,Central Asia,2008,2,33.0000
+Uzbekistan,Asia,Central Asia,2010,1,29.0000
+Uzbekistan,Asia,Central Asia,2011,2,43.0000
+Uzbekistan,Asia,Central Asia,2012,4,36.0000
+Uzbekistan,Asia,Central Asia,2013,2,31.0000
+Uzbekistan,Asia,Central Asia,2014,1,44.0000
+Uzbekistan,Asia,Central Asia,2015,1,21.0000
+Uzbekistan,Asia,Central Asia,2016,4,34.5000
+Venezuela,Americas,South America,2005,567,30.8201
+Venezuela,Americas,South America,2006,618,31.4773
+Venezuela,Americas,South America,2007,773,30.7503
+Venezuela,Americas,South America,2008,819,31.2442
+Venezuela,Americas,South America,2009,1013,30.9260
+Venezuela,Americas,South America,2010,1091,31.8717
+Venezuela,Americas,South America,2011,1453,31.4370
+Venezuela,Americas,South America,2012,1760,31.8983
+Venezuela,Americas,South America,2013,2015,31.0968
+Venezuela,Americas,South America,2014,3557,30.6458
+Venezuela,Americas,South America,2015,9730,30.1084
+Venezuela,Americas,South America,2016,26623,29.8724
+Viet Nam,Asia,South-Eastern Asia,2005,1,5.0000
+Viet Nam,Asia,South-Eastern Asia,2006,3,18.6667
+Viet Nam,Asia,South-Eastern Asia,2012,3,39.3333
+Viet Nam,Asia,South-Eastern Asia,2013,3,34.3333
+Viet Nam,Asia,South-Eastern Asia,2014,12,31.0000
+Viet Nam,Asia,South-Eastern Asia,2015,13,31.0000
+Viet Nam,Asia,South-Eastern Asia,2016,4,36.0000
+Yemen,Asia,Western Asia,2009,1,42.0000
+Yemen,Asia,Western Asia,2014,1,45.0000
+Yemen,Asia,Western Asia,2015,1,28.0000
+Zambia,Africa,Eastern Africa,2011,1,28.0000
+Zambia,Africa,Eastern Africa,2013,2,37.5000
+Zambia,Africa,Eastern Africa,2014,1,40.0000
+Zimbabwe,Africa,Eastern Africa,2008,2,65.5000
+Zimbabwe,Africa,Eastern Africa,2009,2,66.5000
+Zimbabwe,Africa,Eastern Africa,2014,1,28.0000
+Zimbabwe,Africa,Eastern Africa,2015,1,29.0000
