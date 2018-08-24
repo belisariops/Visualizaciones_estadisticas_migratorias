@@ -128,7 +128,7 @@ var margin = {top: 19.5, right: 19.5, bottom: 19.5, left: 39.5},
 var xScale = d3.scale.log().domain([10, 70000]).range([0, width]).nice(),
     yScale = d3.scale.linear().domain([1, 100]).range([height, 0]),
     radiusScale = d3.scale.sqrt().domain([0, 5e7]).range([0, 80]),
-    colorScale = d3.scale.category20();
+    colorScale = d3.scale.category20c();
 
 // The x & y axes.
 var xAxis = d3.svg.axis().orient("bottom").scale(xScale).ticks(12, d3.format(",d")),
@@ -192,13 +192,19 @@ var coord = svg.append("text")
     .attr("y", 100)
     .attr("x", 20)
     .text(" ");
+var tipos = svg.append("text")
+    .attr("class","coordenadas label")
+    .attr("text-anchor", "start")
+    .attr("y", 110)
+    .attr("x", 20)
+    .text(" ");
 
 var first_time = true;
 
 
 
 // Load the data.
-d3.json("../data/segundo.json", function(nations) { 
+d3.json("../data/tercero.json", function(nations) { //console.log(nations);
 
   var bisect = d3.bisector(function(d) { return d[0];});
 
@@ -223,14 +229,18 @@ d3.json("../data/segundo.json", function(nations) {
   //     //   // Look at the state machine history and find a drag event in it?
 
       })
-      .on("mouseenter", function(d, i) {//console.log(d);
-        clear_demo();
+      .on("mouseenter", function(d, i) {
+        //clear_demo();
         if(dragit.statemachine.current_state == "idle") {
           //dragit.trajectory.display(d, i)
           // dragit.utils.animateTrajectory(dragit.trajectory.display(d, i), dragit.time.current, 1000)
           countrylabel.text(d.name);
 
-          coord.text("[ "+d.cantidades+" , "+d.edades+" ]");
+          coord.text("TotalVisas: "+d.cantidades);
+          tipos.text("EdadPromedio: "+d.edades);
+
+
+          
 
           dot.style("opacity", .4)
           d3.select(this).style("opacity", 1)
@@ -241,7 +251,7 @@ d3.json("../data/segundo.json", function(nations) {
 
         if(dragit.statemachine.current_state == "idle") {
           countrylabel.text("");
-          coord.text("");
+          coord.text("");tipos.text("");
           dot.style("opacity", 1);
         }
   
@@ -283,9 +293,10 @@ d3.json("../data/segundo.json", function(nations) {
         return {
           name: d.country_name,
           region: d.continent,
-          subregion:d.sub_continent,
+          tipos :interpolateValues(d.tipos_visa, year),
           cantidades: interpolateValues(d.cantidades, year),
-          edades: interpolateValues(d.edades, year),
+          edades: interpolateValues(d.edades, year)
+          
           //lifeExpectancy: interpolateValues(d.lifeExpectancy, year)
         };
       });
@@ -339,7 +350,7 @@ d3.json("../data/segundo.json", function(nations) {
 
     var end_effect = function() {
       countrylabel.text("");
-      coord.text("");
+      coord.text("");tipos.text("");
       dot.style("opacity", 1)
     }
 
@@ -352,7 +363,7 @@ d3.json("../data/segundo.json", function(nations) {
        svg.transition().duration(0);
       first_time = false;
       window.clearInterval(demo_interval);
-      countrylabel.text("");coord.text("");
+      countrylabel.text("");coord.text("");tipos.text("");
       dragit.trajectory.removeAll();
       d3.selectAll(".dot").style("opacity", 1)
     }
